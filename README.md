@@ -5,7 +5,6 @@ Since the script is writing by Python3, you may need to install Python3 on your 
 
 After installing Python, in order to use it, first install a library called tabula-py
 
-you can install through pip:
+You can install it by typing:
 
-pip3 install tabula-py
-
+pip3 install -r requirements.txt
