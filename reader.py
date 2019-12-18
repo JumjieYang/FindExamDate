@@ -32,12 +32,15 @@ def addSpace(w):
             newStr += " "
     return newStr
 
-
-if __name__ == '__main__':
+def run():
     print("fetching data......")
     allCourses = init()
     print("Please input your courses, and separate them by ','")
     courses = input()
     courselist=courses.split(",")
+    print("----------------------------------------------------")
     for course in courselist:
         print(read(course,allCourses))
+
+if __name__ == '__main__':
+    run()
