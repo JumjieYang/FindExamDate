@@ -1,12 +1,11 @@
 # FindExamDate
-# This tool is to help to find your exam date without opening your
-# browser
+This tool is to help to find your exam date at McGill University without opening your browser
 
-# To use it, First install a library called tabula-py
+Since the script is writing by Python3, you may need to install Python3 on your machine
 
-# if you are using python3
+After installing Python, in order to use it, first install a library called tabula-py
 
-# type the following in your terminal
+you can install through pip:
 
-# pip3 install tabula-py
+pip3 install tabula-py
 
