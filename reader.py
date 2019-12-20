@@ -1,9 +1,7 @@
-import tabula
+import pandas
 
 def init():
-    df = tabula.read_pdf(
-        "https://www.mcgill.ca/exams/files/exams/december_2019_final_exam_schedule_with_room_locationsd12.pdf",
-        pages="all")
+    df = pandas.read_csv('exam.csv',usecols=[1,3,4,5,6,7])
     allCourses = df.values.tolist()
     return allCourses
 
@@ -18,9 +16,9 @@ def read(Course,allCourses):
         Course = addSpace(Course)
     for course in allCourses:
         if course[0] == Course:
-            date = course[3]
-            time = course[4]
-            place = course[5] + " at " + course[6]
+            date = course[2]
+            time = course[3]
+            place = course[4] + " at " + course[5]
             return Course + " will be on " + date + " begin at " + time + " in " + place
 
 

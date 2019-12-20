@@ -11,3 +11,6 @@ pip3 install -r requirements.txt
 
 In order to make the script running, you also need to install java with at least version 8 on your machine.
 
+--Update
+
+You can now only download exam.csv and reader.py to make the script running
