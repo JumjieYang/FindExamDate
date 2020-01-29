@@ -7,10 +7,22 @@ After installing Python, in order to use it, first install a library called tabu
 
 You can install it by typing:
 
-pip3 install -r requirements.txt
+`pip3 install -r requirements.txt`
 
 In order to make the script running, you also need to install java with at least version 8 on your machine.
 
---Update
+## Update
 
 You can now only download exam.csv and reader.py to make the script running
+
+First, git clone this repo to your own machine
+
+`git clone https://github.com/JumjieYang/FindExamDate.git`
+
+then, make the script executable
+
+`chmod a+x reader.py`
+
+Finally, run the script and input the courses
+
+`./reader.py`
