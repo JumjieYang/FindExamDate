@@ -1,7 +1,7 @@
 import pandas
 
 def init():
-    df = pandas.read_csv('exam.csv',usecols=[1,3,4,5,6,7])
+    df = pandas.read_csv('exam.csv',usecols=[1,3,4,5,6])
     allCourses = df.values.tolist()
     return allCourses
 
@@ -18,8 +18,8 @@ def read(Course,allCourses):
         if course[0] == Course:
             date = course[2]
             time = course[3]
-            place = course[4] + " at " + course[5]
-            return Course + " will be on " + date + " begin at " + time + " in " + place
+            #place = course[4] + " at " + course[5]
+            return Course + " will be on " + date + " begin at " + time
 
 
 def addSpace(w):

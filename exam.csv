@@ -1,943 +1,874 @@
-,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-0,ACCT 351,001,Intermediate Financial Acct 1,12/16/2019,9:00,GYM,Fieldhouse,37-40,AAA,ZZZ
-1,ACCT 351,002,Intermediate Financial Acct 1,12/16/2019,9:00,GYM,Fieldhouse,37-40,AAA,ZZZ
-2,ACCT 351,003,Intermediate Financial Acct 1,12/16/2019,9:00,GYM,Fieldhouse,37-40,AAA,ZZZ
-3,ACCT 352,001,Intermediate Financial Acct 2,12/16/2019,9:00,GYM,main gym,31-35,AAA,ZZZ
-4,ACCT 352,002,Intermediate Financial Acct 2,12/16/2019,9:00,GYM,main gym,31-35,AAA,ZZZ
-5,ACCT 354,001,Financial Statement Analysis,12/18/2019,9:00,GYM,Fieldhouse,29-31,AAA,ZZZ
-6,ACCT 354,002,Financial Statement Analysis,12/18/2019,9:00,GYM,Fieldhouse,29-31,AAA,ZZZ
-7,ACCT 361,001,Management Accounting,12/9/2019,9:00,GYM,main gym,2-11,AAA,ZZZ
-8,ACCT 361,002,Management Accounting,12/9/2019,9:00,GYM,main gym,2-11,AAA,ZZZ
-9,ACCT 361,003,Management Accounting,12/9/2019,9:00,GYM,main gym,2-11,AAA,ZZZ
-10,ACCT 362,001,Cost Accounting,12/5/2019,9:00,GYM,main gym,41-42,AAA,ZZZ
-11,ACCT 385,001,Principles of Taxation,12/5/2019,14:00,GYM,Fieldhouse,23-25,AAA,ZZZ
-12,ACCT 385,002,Principles of Taxation,12/5/2019,14:00,GYM,Fieldhouse,23-25,AAA,ZZZ
-13,ACCT 453,001,Advanced Financial Accounting,12/9/2019,9:00,GYM,Studio 2,1-6,AAA,ZZZ
-14,ACCT 453,002,Advanced Financial Accounting,12/9/2019,9:00,GYM,Studio 2,1-6,AAA,ZZZ
-15,ACCT 463,001,Management Control,12/16/2019,18:30,GYM,Studio 1,1-4,AAA,ZZZ
-16,ACCT 463,002,Management Control,12/16/2019,18:30,GYM,Studio 1,1-4,AAA,ZZZ
-17,ACCT 475,001,Principles of Auditing,12/17/2019,14:00,GYM,Fieldhouse,39-40,AAA,ZZZ
-18,ACCT 486,001,Business Taxation 2,12/12/2019,18:30,GYM,Studio 2,1-6,AAA,ZZZ
-19,ACCT 486,002,Business Taxation 2,12/12/2019,18:30,GYM,Studio 2,1-6,AAA,ZZZ
-20,ACCT 683,045,Practice of Taxation,4-Dec,9:00,BRONFMAN,205,,AAA,ZZZ
-21,ACCT 687,045,Assurance Services,4-Dec,9:00,ARMST,075,,AAA,ZZZ
-22,AEBI 120,001,General Biology,12/6/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-23,AEBI 210,001,Organisms 1,12/12/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-24,AECH 110,001,General Chemistry 1,12/9/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-25,AEHM 205,001,Science Literacy,12/17/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-26,AEHM 330,001,Academic & Scientific Writing,12/5/2019,14:00,TAKE,HOME,,AAA,ZZZ
-27,AEMA 101,001,Calculus 1,12/18/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-28,AEMA 202,001,Intermediate Calculus,12/10/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-29,AEMA 310,001,Statistical Methods 1,12/9/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-30,AEMA 610,001,Statistical Methods 2,12/17/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-31,AEPH 112,001,Introductory Physics 1,12/11/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-32,AEPH 113,001,Physics 1,12/11/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-33,AGEC 200,001,Principles of Microeconomics,12/16/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-34,AGEC 330,001,Agriculture and Food Markets,12/16/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-35,AGEC 332,001,Farm Management and Finance,12/6/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-36,AGEC 333,001,Resource Economics,12/11/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-37,AGEC 491,001,Research & Methodology,12/10/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-38,AGRI 215,001,Agro-Ecosystems Field Course,12/13/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-39,ANAT 214,001,Systemic Human Anatomy,12/12/2019,9:00,SADB,M-1 & 1/56,,AAA,ZZZ
-40,ANAT 214,001,Systemic Human Anatomy,12/18/2019,14:00,SADB,2/49,,AAA,ZZZ
-41,ANAT 261,001,Intro to Dynamic Histology,12/11/2019,9:00,SADB,1/56,,AAA,ZZZ
-42,ANAT 261,001,Intro to Dynamic Histology,12/13/2019,14:00,GYM,Fieldhouse,37-46,AAA,ZZZ
-43,ANAT 315,001,Clin Hum Musculoskeletal Anat,12/5/2019,14:00,SADB,2/49,,AAA,ZZZ
-44,ANAT 315,001,Clin Hum Musculoskeletal Anat,12/6/2019,9:00,GYM,Fieldhouse,1-7,AAA,ZZZ
-45,ANAT 321,001,Circuitry of the Human Brain,12/10/2019,9:00,GYM,main gym,22-37,AAA,ZZZ
-46,ANAT 323,001,Clinical Neuroanatomy,12/16/2019,14:00,SADB,2/49,,AAA,ZZZ
-47,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-48,ANAT 323,001,Clinical Neuroanatomy,12/19/2019,9:00,GYM,Studio 2,1-7,AAA,ZZZ
-49,ANAT 365,001,Cellular Trafficking,12/11/2019,14:00,GYM,Fieldhouse,35-36,AAA,ZZZ
-50,ANAT 381,001,Experimental Embryology,12/19/2019,14:00,GYM,main gym,3-7,AAA,ZZZ
-51,ANSC 250,001,Principles of Animal Science,12/5/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-52,ANSC 323,001,Mammalian Physiology,12/11/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-53,ANSC 326,001,Fundamentals of Pop'n Genetics,12/10/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-54,ANSC 504,001,Population Genetics,12/10/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-55,ANTH 202,001,Socio-Cultural Anthropology,12/5/2019,14:00,GYM,Fieldhouse,26-37,AAA,ZZZ
-56,ANTH 227,001,Medical Anthropology,12/10/2019,18:30,GYM,Fieldhouse,4-13,AAA,ZZZ
-57,ANTH 325,001,Anthropology of the Self,12/16/2019,18:30,TAKE,HOME,,AAA,ZZZ
-58,ANTH 326,001,Anthropology of Latin America,12/6/2019,14:00,GYM,main gym,22-26,AAA,ZZZ
-59,ANTH 352,001,Hist of Anthropological Theory,12/13/2019,18:30,TAKE,HOME,,AAA,ZZZ
-60,ANTH 412,001,Topics:Anthropological Theory,12/13/2019,18:30,TAKE,HOME,,AAA,ZZZ
-61,ARCH 201,001,"Communication, Behaviour&Arch",Dec 5/6,9:00,MDHAR,114,,AAA,ZZZ
-62,ARCH 303,001,Design and Construction 1,Dec 5/6,9:00,MDHAR,101,,AAA,ZZZ
-63,ARCH 303,002,Design and Construction 1,Dec 5/6,9:00,MDHAR,102,,AAA,ZZZ
-64,ARCH 303,003,Design and Construction 1,Dec 5/6,9:00,MDHAR,101,,AAA,ZZZ
-65,ARCH 303,007,Design and Construction 1,Dec 5/6,9:00,MDHAR,102,,AAA,ZZZ
-66,ARCH 354,001,Architectural History 3,12/13/2019,9:00,GYM,Fieldhouse,41-42,AAA,ZZZ
-67,ARCH 354,002,Architectural History 3,12/13/2019,9:00,GYM,Fieldhouse,41-42,AAA,ZZZ
-68,ARCH 375,001,Landscape,12/10/2019,9:00,MDHAR,G-10,,AAA,ZZZ
-69,ARCH 405,001,Design and Construction 3,Dec 9/10,9:00,MDHAR,114,,AAA,ZZZ
-70,ARCH 405,002,Design and Construction 3,Dec 9/10,9:00,MDHAR,101,,AAA,ZZZ
-71,ARCH 405,003,Design and Construction 3,Dec 9/10,9:00,MDHAR,102,,AAA,ZZZ
-72,ARCH 405,007,Design and Construction 3,Dec 9/10,9:00,MDHAR,207,,AAA,ZZZ
-73,ARCH 672,001,Architectural Design 1,Dec 11/12/13,9:00,MDHAR,114,,AAA,ZZZ
-74,ARCH 672,003,Architectural Design 1,Dec 11/12/13,9:00,MDHAR,101,,AAA,ZZZ
-75,ARCH 672,005,Architectural Design 1,Dec 11/12/13,9:00,MDHAR,102,,AAA,ZZZ
-76,ARCH 677,001,Architectural Design 3,Dec 16/17,9:00,MDHAR,114,,AAA,ZZZ
-77,ARCH 677,003,Architectural Design 3,Dec 16/17,9:00,MDHAR,101,,AAA,ZZZ
-78,ARCH 683,001,Directed Research Project,Dec 18/19/20,9:00,MDHAR,114,,AAA,ZZZ
-79,ARTH 223,001,Intro Ital Renai Art 1300-1500,12/5/2019,14:00,MAASS,112,,AAA,ZZZ
-80,ARTH 321,001,Visual Culture-Dutch Republic,12/9/2019,18:30,TAKE,HOME,,AAA,ZZZ
-81,ARTH 339,001,Critical Issues-Contemp Art,12/16/2019,14:00,ARTS,W-215,,AAA,ZZZ
-82,ARTH 354,001,Selected Topics Art History 2,12/12/2019,18:30,LEACOCK,232,,AAA,ZZZ
-83,ATOC 181,001,Intro to Atmospheric Science,12/9/2019,9:00,GYM,305,1-6,AAA,LIN
-84,ATOC 181,001,Intro to Atmospheric Science,12/9/2019,9:00,GYM,408,1-6,LOI,ZZZ
-85,ATOC 185,001,Natural Disasters,12/19/2019,18:30,GYM,main gym,3-41,AAA,ZZZ
-86,ATOC 214,001,Intro:Physics of the Atmosph,12/16/2019,14:00,BURN,1B45,,AAA,ZZZ
-87,ATOC 312,001,Rotating Fluid Dynamics,12/12/2019,9:00,BURN,719A,,AAA,ZZZ
-88,ATOC 315,001,Thermodynamics and Convection,12/16/2019,14:00,BURN,719A,,AAA,ZZZ
-89,ATOC 404,001,Climate Physics,12/18/2019,9:00,BURN,719A,,AAA,ZZZ
-90,ATOC 512,001,Atmospheric & Oceanic Dynamics,12/20/2019,9:00,BURN,719A,,AAA,ZZZ
-91,ATOC 531,001,Dynamics of Current Climates,12/5/2019,9:00,BURN,719A,,AAA,ZZZ
-92,ATOC 540,001,Synoptic Meteorology 1,12/19/2019,9:00,BURN,719A,,AAA,ZZZ
-93,BIEN 200,001,Introduction to Bioengineering,12/13/2019,9:00,GYM,Fieldhouse,43-45,AAA,ZZZ
-94,BIEN 290,001,Bioengineering Measurement Lab,12/5/2019,14:00,ENGTR,1100,,AAA,ZZZ
-95,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-96,BIEN 310,001,Intro to Biomolecular Eng,12/12/2019,14:00,ENGTR,0060,,AAA,ZZZ
-97,BIEN 314,001,Transp. Phenom in Biol. Sys 1,12/18/2019,9:00,GYM,main gym,18-19,AAA,ZZZ
-98,BIEN 350,001,"Biosignals, Systems & Control",12/19/2019,9:00,GYM,Fieldhouse,38-39,AAA,ZZZ
-99,BIEN 410,001,Comput Methods in Biomol Eng,12/17/2019,9:00,ENGTR,0060,,AAA,ZZZ
-100,BIOC 311,001,Metabolic Biochemistry,12/19/2019,9:00,GYM,Fieldhouse,25-37,AAA,ZZZ
-101,BIOC 320,001,Lab Meth in Biochem&Mol Biol 2,12/10/2019,18:30,GYM,Studio 1,1-4,AAA,ZZZ
-102,BIOC 450,001,Protein Structure and Function,12/10/2019,9:00,GYM,Fieldhouse,42-44,AAA,ZZZ
-103,BIOC 454,001,Nucleic Acids,12/6/2019,9:00,GYM,main gym,40-44,AAA,ZZZ
-104,BIOL 111,001,Principles:Organismal Biology,12/9/2019,9:00,GYM,Fieldhouse,27-41,AAA,ZZZ
-105,BIOL 115,001,Essential Biology,12/11/2019,14:00,GYM,Fieldhouse,18-27,AAA,ZZZ
-106,BIOL 200,001,Molecular Biology,12/9/2019,18:30,GYM,Fieldhouse,22-36,AAA,ZZZ
-107,BIOL 200,002,Molecular Biology,12/9/2019,18:30,GYM,Fieldhouse,1-21,AAA,ZZZ
-108,BIOL 210,001,Perspectives of Science,12/16/2019,9:00,STBIO,S1/4,,AAA,ZZZ
-109,BIOL 215,001,Intro to Ecology and Evolution,12/10/2019,18:30,GYM,Fieldhouse,27-32,AAA,ZZZ
-110,BIOL 219,001,Intro to Phys Mol & Cell Biol,12/19/2019,9:00,STBIO,S1/4,,AAA,ZZZ
-111,BIOL 300,001,Molecular Biology of the Gene,12/13/2019,9:00,GYM,main gym,32-38,AAA,ZZZ
-112,BIOL 301,001,Cell and Molecular Laboratory,12/9/2019,18:30,GYM,main gym,25-36,AAA,ZZZ
-113,BIOL 304,001,Evolution,12/18/2019,14:00,STBIO,S1/4,,AAA,ZZZ
-114,BIOL 306,001,Neural Basis of Behaviour,12/17/2019,9:00,GYM,Studio 1,1-7,AAA,PAQ
-115,BIOL 306,001,Neural Basis of Behaviour,12/17/2019,9:00,GYM,Studio 2,1-7,PAR,ZZZ
-116,BIOL 308,001,Ecological Dynamics,12/19/2019,18:30,GYM,Fieldhouse,39-41,AAA,ZZZ
-117,BIOL 309,001,Mathematical Models in Biology,12/13/2019,9:00,GYM,Fieldhouse,17-18,AAA,ZZZ
-118,BIOL 314,001,Molecular Biology of Oncogenes,12/9/2019,9:00,GYM,main gym,12-14,AAA,ZZZ
-119,BIOL 316,001,Biomembranes and Organelles,12/18/2019,14:00,STBIO,S3/4,,AAA,ZZZ
-120,BIOL 324,001,Ecological Genetics,12/13/2019,14:00,STBIO,S3/4,,AAA,ZZZ
-121,BIOL 350,001,Insect Biology and Control,12/13/2019,9:00,STBIO,S3/4,,AAA,ZZZ
-122,BIOL 370,001,Human Genetics Applied,12/9/2019,14:00,GYM,Fieldhouse,38,AAA,ZZZ
-123,BIOL 373,001,Biometry,12/5/2019,18:30,GYM,main gym,37-38,AAA,ZZZ
-124,BIOL 395,001,Quantitative Biology Seminar,12/18/2019,9:00,STBIO,S1/4,,AAA,ZZZ
-125,BIOL 414,001,Invert Brain Circuits & Behav,12/20/2019,9:00,STBIO,S3/4,,AAA,ZZZ
-126,BIOL 432,001,Limnology,12/11/2019,9:00,GYM,Fieldhouse,38,AAA,ZZZ
-127,BIOL 465,001,Conservation Biology,12/5/2019,9:00,GYM,Fieldhouse,39-41,AAA,ZZZ
-128,BMDE 503,001,Biomedical Instrumentation,12/19/2019,9:00,DUFF,321,,AAA,ZZZ
-129,BMDE 519,001,Biomedical Signals & Systems,12/20/2019,18:30,TAKE,HOME,,AAA,ZZZ
-130,BREE 210,001,Mechanical Analysis & Design,12/19/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-131,BREE 216,001,Bioresource Eng. Materials,12/16/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-132,BREE 319,001,Engineering Mathematics,12/10/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-133,BREE 322,001,Organic Waste Management,12/5/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-134,BREE 324,001,Elements of Food Engineering,12/16/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-135,BREE 325,001,Food Process Engineering,12/16/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-136,BREE 327,001,Bio-Environmental Engineering,12/13/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-137,BTEC 501,001,Bioinformatics,12/12/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-138,BTEC 620,003,Biotechnology Laboratory 1,12/19/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-139,BUSA 364,051,Business Law 1,12/10/2019,9:00,GYM,Fieldhouse,7-9,AAA,ZZZ
-140,BUSA 391,071,International Business Law,12/9/2019,14:00,GYM,Fieldhouse,35,AAA,ZZZ
-141,CANS 200,001,Intro to the Study of Canada,12/13/2019,9:00,GYM,Fieldhouse,11-16,AAA,ZZZ
-142,CANS 303,001,Topics in Canadian Studies 3,12/16/2019,18:30,ARTS,W-20,,AAA,ZZZ
-143,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-144,CANS 405,001,Canadian Studies Seminar 5,12/6/2019,18:30,TAKE,HOME,,AAA,ZZZ
-145,CHEE 200,001,Chem Engineering Principles 1,12/6/2019,9:00,GYM,Studio 1,1-6,AAA,ZZZ
-146,CHEE 231,001,Data Anal & Design of Exp,12/12/2019,14:00,GYM,main gym,30-36,AAA,ZZZ
-147,CHEE 291,001,Instrumentation&Measurement 1,12/19/2019,14:00,GYM,Fieldhouse,1-4,AAA,ZZZ
-148,CHEE 314,001,Fluid Mechanics,12/11/2019,14:00,GYM,Fieldhouse,37-38,AAA,ZZZ
-149,CHEE 370,001,Elements of Biotechnology,12/19/2019,18:30,GYM,Fieldhouse,22-23,AAA,ZZZ
-150,CHEE 380,001,Materials Science,12/9/2019,14:00,GYM,Fieldhouse,36-37,AAA,ZZZ
-151,CHEE 400,001,Princ of Energy Conversion,12/10/2019,9:00,GYM,BLEACHERS,1-4,AAA,ZZZ
-152,CHEE 423,001,Chemical Reaction Engineering,12/18/2019,9:00,ENGTR,0100,,AAA,ZZZ
-153,CHEE 453,001,Process Design,12/20/2019,9:00,ENGTR,0100,,AAA,ZZZ
-154,CHEE 456,001,Design Project 1,12/16/2019,9:00,RPHYS,112,,AAA,ZZZ
-155,CHEE 457,001,Design Project 2,12/17/2019,9:00,RPHYS,112,,AAA,ZZZ
-156,CHEE 474,001,Biochemical Engineering,12/6/2019,9:00,STBIO,S3/3,,AAA,ZZZ
-157,CHEE 543,001,Plasma Engineering,12/12/2019,14:00,ENGTR,2110,,AAA,ZZZ
-158,CHEM 110,001,General Chemistry 1,12/18/2019,14:00,GYM,Fieldhouse,1-29,AAA,ZZZ
-159,CHEM 110,002,General Chemistry 1,12/18/2019,14:00,GYM,Fieldhouse,1-29,AAA,ZZZ
-160,CHEM 183,001,World of Chem: Drugs,12/6/2019,18:30,GYM,Fieldhouse,,AAA,ZZZ
-161,CHEM 203,001,Survey of Physical Chemistry,12/20/2019,9:00,GYM,Fieldhouse,9-13,AAA,ZZZ
-162,CHEM 204,001,Physical Chem./Biol.Sci. 1,12/11/2019,14:00,GYM,Fieldhouse,28-31,AAA,ZZZ
-163,CHEM 211,001,Organic Chemistry 1 Lectures,12/17/2019,14:00,GYM,Fieldhouse,1-23,AAA,ZZZ
-164,CHEM 212,001,Intro Organic Chemistry 1,12/17/2019,14:00,GYM,Fieldhouse,1-23,AAA,ZZZ
-165,CHEM 213,001,Introductory Phys Chem1:Thermo,12/11/2019,9:00,GYM,main gym,3-5,AAA,ZZZ
-166,CHEM 222,001,Intro Organic Chemistry 2,12/5/2019,14:00,GYM,main gym,19-32,AAA,ZZZ
-167,CHEM 234,001,Topics in Organic Chemistry,12/5/2019,14:00,GYM,main gym,19-32,AAA,ZZZ
-168,CHEM 267,001,Introductory Chemical Analysis,12/6/2019,14:00,GYM,Fieldhouse,16-17,AAA,ZZZ
-169,CHEM 302,001,Intro Organic Chemistry 3,12/17/2019,14:00,GYM,main gym,7-13,AAA,ZZZ
-170,CHEM 345,001,Intro to Quantum Chemistry,12/12/2019,18:30,GYM,main gym,32-33,AAA,ZZZ
-171,CHEM 367,001,Instrumental Analysis 1,12/10/2019,9:00,GYM,Fieldhouse,45-46,AAA,ZZZ
-172,CHEM 381,001,Inorganic Chemistry 2,12/20/2019,9:00,GYM,main gym,32-33,AAA,ZZZ
-173,CHEM 429,001,"Chem of Energy, Storage & Util",12/20/2019,14:00,TAKE,HOME,,AAA,ZZZ
-174,CHEM 503,001,Drug Discovery,12/19/2019,9:00,MAASS,10,,AAA,ZZZ
-175,CHEM 520,001,Methods in Chemical Biology,12/18/2019,9:00,MAASS,328,,AAA,ZZZ
-176,CHEM 522,001,Stereochemistry,12/13/2019,14:00,MAASS,217,,AAA,ZZZ
-177,CHEM 532,001,Structural Organic Chemistry,12/20/2019,9:00,MAASS,217,,AAA,ZZZ
-178,CHEM 534,001,Nanoscience and Nanotechnology,12/11/2019,9:00,TAKE,HOME,,AAA,ZZZ
-179,CHEM 556,001,Advanced Quantum Mechanics,12/18/2019,14:00,MAASS,328,,AAA,ZZZ
-180,CIVE 205,001,Statics,12/6/2019,14:00,GYM,Fieldhouse,40-44,AAA,ZZZ
-181,CIVE 207,001,Solid Mechanics,12/9/2019,18:30,GYM,BLEACHERS,1-5,AAA,ZZZ
-182,CIVE 208,001,Civil Engineering Sys Analysis,12/11/2019,9:00,GYM,main gym,6-11,AAA,ZZZ
-183,CIVE 281,001,Analytical Mechanics,12/20/2019,9:00,GYM,Fieldhouse,14-18,AAA,ZZZ
-184,CIVE 290,001,Thermodynamics & Heat Transfer,12/17/2019,18:30,GYM,main gym,6-12,AAA,ZZZ
-185,CIVE 311,001,Geotechnical Mechanics,12/6/2019,9:00,GYM,Fieldhouse,39-42,AAA,ZZZ
-186,CIVE 317,001,Structural Engineering 1,12/10/2019,9:00,GYM,Fieldhouse,36-38,AAA,ZZZ
-187,CIVE 320,001,Numerical Methods,12/11/2019,14:00,GYM,Fieldhouse,32-34,AAA,ZZZ
-188,CIVE 323,001,Hydrology and Water Resources,12/16/2019,9:00,GYM,Fieldhouse,41-44,AAA,ZZZ
-189,CIVE 385,001,Structural Steel&Timber Design,12/19/2019,18:30,GYM,main gym,42-44,AAA,ZZZ
-190,CIVE 440,001,Traffic Engineering&Simulation,12/6/2019,9:00,GYM,Fieldhouse,45,AAA,ZZZ
-191,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-192,CIVE 446,001,Construction Engineering,12/17/2019,14:00,GYM,main gym,14-15,AAA,ZZZ
-193,CIVE 460,001,Matrix Structural Analysis,12/10/2019,9:00,GYM,main gym,44-45,AAA,ZZZ
-194,CIVE 462,001,Design of Steel Structures,12/5/2019,14:00,GYM,main gym,33-36,AAA,ZZZ
-195,CIVE 527,001,Renov&Preserv:Infrastructure,12/18/2019,9:00,GYM,Studio 2,1-4,AAA,ZZZ
-196,CIVE 557,001,Microbio for Environmental Eng,12/20/2019,9:00,ENGTR,0070,,AAA,ZZZ
-197,CIVE 560,001,Transportation Safety & Design,12/9/2019,9:00,ENGTR,0070,,AAA,ZZZ
-198,CLAS 201,001,Greece and Rome,12/5/2019,18:30,GYM,main gym,19-26,AAA,ZZZ
-199,CLAS 210,001,Introductory Latin 1,12/12/2019,9:00,MAASS,10,,AAA,ZZZ
-200,CLAS 210,002,Introductory Latin 1,12/12/2019,9:00,MAASS,10,,AAA,ZZZ
-201,CLAS 210,003,Introductory Latin 1,12/12/2019,9:00,BURN,1B36,,AAA,ZZZ
-202,CLAS 220,001,Introductory Ancient Greek 1,12/17/2019,18:30,GYM,main gym,13-14,AAA,ZZZ
-203,CLAS 301,001,Ancient Greek Lit & Society,12/10/2019,18:30,ARTS,260,,AAA,ZZZ
-204,CLAS 305,001,Roman Religion,12/19/2019,18:30,GYM,Fieldhouse,35-37,AAA,ZZZ
-205,CLAS 310,001,Intermediate Latin 1,12/20/2019,9:00,ARTS,260,,AAA,ZZZ
-206,CLAS 320,001,Intermediate Ancient Greek 1,12/13/2019,14:00,ARTS,W-20,,AAA,ZZZ
-207,CLAS 331,001,Intermediate Modern Greek 1,12/11/2019,9:00,LEA,819,,AAA,ZZZ
-208,CLAS 402,001,Hellenistic Lit. and Society,12/9/2019,9:00,TAKE,HOME,,AAA,ZZZ
-209,CLAS 410,001,Advanced Latin: Authors,12/17/2019,14:00,ARTS,260,,AAA,ZZZ
-210,CLAS 420,001,Advanced Ancient Greek: Author,12/16/2019,14:00,LEA,808,,AAA,ZZZ
-211,CLAS 610,001,Readings in Latin Literature,12/17/2019,14:00,ARTS,260,,AAA,ZZZ
-212,CLAS 620,001,Readings in Ancient Greek Lit,12/16/2019,14:00,LEA,808,,AAA,ZZZ
-213,COMP 202,002,Foundations of Programming,12/16/2019,18:30,GYM,Fieldhouse,11-35,AAA,ZZZ
-214,COMP 202,003,Foundations of Programming,12/16/2019,18:30,GYM,Fieldhouse,11-35,AAA,ZZZ
-215,COMP 204,001,Comp. Programming for Life Sci,12/6/2019,9:00,GYM,main gym,16-23,AAA,ZZZ
-216,COMP 206,001,Intro to Software Systems,12/11/2019,9:00,GYM,Fieldhouse,7-24,AAA,ZZZ
-217,COMP 208,001,Computer Programming for PS&E,12/16/2019,9:00,GYM,Fieldhouse,28-36,AAA,ZZZ
-218,COMP 208,002,Computer Programming for PS&E,12/16/2019,9:00,GYM,Fieldhouse,28-36,AAA,ZZZ
-219,COMP 230,001,Logic and Computability,12/17/2019,9:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-220,COMP 250,001,Intro to Computer Science,12/16/2019,9:00,GYM,Fieldhouse,1-24,AAA,ZZZ
-221,COMP 250,002,Intro to Computer Science,12/16/2019,9:00,GYM,Fieldhouse,1-24,AAA,ZZZ
-222,COMP 251,001,Algorithms and Data Structures,12/16/2019,18:30,GYM,main gym,3-29,AAA,ZZZ
-223,COMP 273,001,Intro to Computer Systems,12/5/2019,14:00,GYM,main gym,3-18,AAA,ZZZ
-224,COMP 302,001,Programming Lang & Paradigms,12/12/2019,14:00,GYM,Fieldhouse,11-20,AAA,ZZZ
-225,COMP 302,002,Programming Lang & Paradigms,12/12/2019,14:00,GYM,Fieldhouse,11-20,AAA,ZZZ
-226,COMP 303,001,Software Design,12/9/2019,18:30,GYM,Fieldhouse,39-46,AAA,ZZZ
-227,COMP 310,001,Operating Systems,12/18/2019,9:00,GYM,Fieldhouse,32-39,AAA,ZZZ
-228,COMP 330,001,Theory of Computation,12/19/2019,9:00,GYM,main gym,31-45,AAA,ZZZ
-229,COMP 350,001,Numerical Computing,12/11/2019,14:00,GYM,main gym,3-16,AAA,ZZZ
-230,COMP 360,001,Algorithm Design,12/16/2019,9:00,GYM,Studio 1,1-7,AAA,McC
-231,COMP 360,001,Algorithm Design,12/16/2019,9:00,GYM,Studio 2,1-7,MEY,ZZZ
-232,COMP 361D1,001,Software Engineering Project,12/11/2019,9:00,GYM,main gym,12-17,AAA,ZZZ
-233,COMP 462,001,Computational Biology Methods,12/19/2019,14:00,GYM,main gym,39-44,AAA,ZZZ
-234,COMP 521,001,Modern Computer Games,12/10/2019,14:00,GYM,BLEACHERS,1-4,AAA,ZZZ
-235,COMP 553,001,Algorithmic Game Theory,12/9/2019,9:00,GYM,main gym,34-37,AAA,ZZZ
-236,COMP 557,001,Fundamentals of Comp. Graphics,12/16/2019,14:00,GYM,Fieldhouse,39-43,AAA,ZZZ
-237,COMP 557,003,Fundamentals of Comp. Graphics,12/16/2019,14:00,GYM,Fieldhouse,39-43,AAA,ZZZ
-238,COMP 558,001,Fund. of Computer Vision,12/5/2019,9:00,GYM,Studio 1,1-5,AAA,ZZZ
-239,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-240,COMP 561,001,Comp. Biol. Methods & Research,12/19/2019,14:00,GYM,main gym,39-44,AAA,ZZZ
-241,COMP 598,008,Topics in Computer Science 1,12/9/2019,14:00,GYM,main gym,25-30,AAA,ZZZ
-242,COMP 599,003,Topics in Computer Science 2,12/9/2019,14:00,GYM,main gym,25-30,AAA,ZZZ
-243,COMS 301,001,Core Concepts in Critic Theory,12/16/2019,14:00,TAKE,HOME,,AAA,ZZZ
-244,COMS 361,001,Selected Topics Comm Studies 1,12/10/2019,14:00,TAKE,HOME,,AAA,ZZZ
-245,COMS 362,001,Selected Topics Comm Studies 2,12/17/2019,9:00,TAKE,HOME,,AAA,ZZZ
-246,EAST 213,001,Intro:East Asian Culture:Korea,12/11/2019,14:00,TAKE,HOME,,AAA,ZZZ
-247,EAST 241,001,Japanese Writing Beginners 1,12/16/2019,14:00,SH688,295,,AAA,ZZZ
-248,EAST 341,001,Japanese Writing Intermed. 1,12/19/2019,9:00,SH688,295,,AAA,ZZZ
-249,ECON 208,001,Microeconomic Analysis&Applic,12/9/2019,14:00,GYM,Fieldhouse,9-19,AAA,ZZZ
-250,ECON 208,002,Microeconomic Analysis&Applic,12/9/2019,14:00,GYM,Fieldhouse,20-30,AAA,ZZZ
-251,ECON 208,003,Microeconomic Analysis&Applic,12/9/2019,14:00,GYM,Fieldhouse,1-8,AAA,ZZZ
-252,ECON 208,004,Microeconomic Analysis&Applic,12/9/2019,14:00,GYM,Fieldhouse,31-34,AAA,ZZZ
-253,ECON 209,001,Macroeconomic Analysis&Applic,12/18/2019,9:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-254,ECON 227D1,001,Economic Statistics,12/16/2019,14:00,GYM,main gym,3-22,AAA,ZZZ
-255,ECON 227D1,002,Economic Statistics,12/16/2019,14:00,GYM,main gym,3-22,AAA,ZZZ
-256,ECON 227D1,003,Economic Statistics,12/16/2019,14:00,GYM,main gym,3-22,AAA,ZZZ
-257,ECON 227D1,005,Economic Statistics,12/16/2019,14:00,GYM,main gym,23-25,AAA,ZZZ
-258,ECON 230D1,001,Microeconomic Theory,12/19/2019,9:00,GYM,Fieldhouse,7-12,AAA,ZZZ
-259,ECON 230D1,002,Microeconomic Theory,12/19/2019,9:00,GYM,Fieldhouse,13-20,AAA,ZZZ
-260,ECON 250D1,001,Intro to Econ Theory: Honours,12/19/2019,9:00,GYM,Fieldhouse,21-24,AAA,ZZZ
-261,ECON 257D1,001,Economic Statistics-Honours,12/13/2019,9:00,GYM,main gym,39-45,AAA,ZZZ
-262,ECON 295,001,Macroeconomics Policy,12/19/2019,9:00,GYM,Fieldhouse,40-44,AAA,ZZZ
-263,ECON 295,002,Macroeconomics Policy,12/19/2019,9:00,GYM,Fieldhouse,40-44,AAA,ZZZ
-264,ECON 302,001,"Money, Banking & Gov Policy",12/6/2019,14:00,GYM,Fieldhouse,28-34,AAA,ZZZ
-265,ECON 305,001,Industrial Organization,12/12/2019,14:00,GYM,Fieldhouse,33-35,AAA,ZZZ
-266,ECON 306,001,Labour Markets and Wages,12/16/2019,18:30,GYM,Fieldhouse,1-4,AAA,ZZZ
-267,ECON 313,001,Economic Development 1,12/18/2019,14:00,GYM,main gym,1-14,AAA,ZZZ
-268,ECON 313,002,Economic Development 1,12/18/2019,14:00,GYM,Studio 1,1-5,AAA,KWO
-269,ECON 313,002,Economic Development 1,12/18/2019,14:00,GYM,Studio 2,1-6,LAF,ZZZ
-270,ECON 319,001,Economic Crises,12/17/2019,18:30,GYM,main gym,15-24,AAA,ZZZ
-271,ECON 337,001,Intro Econometrics 1,12/10/2019,9:00,GYM,Studio 1,1-6,AAA,ZZZ
-272,ECON 352D1,001,Macroeconomics - Honours,12/9/2019,14:00,GYM,main gym,31-34,AAA,ZZZ
-273,ECON 408,001,Public Sector Economics 1,12/11/2019,14:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-274,ECON 423,001,International Trade,12/17/2019,14:00,GYM,Fieldhouse,33-37,AAA,ZZZ
-275,ECON 426,001,Labour Economics,12/11/2019,9:00,GYM,Fieldhouse,39-40,AAA,ZZZ
-276,ECON 452,001,Adv Economic Theory 2-Honours,12/6/2019,14:00,GYM,305,1-5,AAA,ZZZ
-277,ECON 468,001,Econometrics 1 - Honours,12/18/2019,9:00,GYM,Fieldhouse,16-17,AAA,ZZZ
-278,ECON 546,001,Game Theory,12/5/2019,9:00,GYM,Fieldhouse,44-45,AAA,ZZZ
-279,ECSE 200,001,Electric Circuits 1,12/12/2019,9:00,GYM,Fieldhouse,21-25,AAA,ZZZ
-280,ECSE 202,001,Intro to Software Development,12/13/2019,14:00,GYM,main gym,24-37,AAA,ZZZ
-281,ECSE 205,001,Prob and Stats for Engineers,12/6/2019,14:00,GYM,Studio 1,1-7,AAA,MWI
-282,ECSE 205,001,Prob and Stats for Engineers,12/6/2019,14:00,GYM,Studio 2,1-6,NAK,ZZZ
-283,ECSE 206,001,Intro to Signals and Systems,12/18/2019,9:00,GYM,Fieldhouse,18,AAA,ZZZ
-284,ECSE 210,001,Electric Circuits 2,12/20/2019,9:00,GYM,main gym,1-2,AAA,ZZZ
-285,ECSE 222,001,Digital Logic,12/10/2019,9:00,ENGTR,0100,,AAA,ZZZ
-286,ECSE 223,001,Model-Based Programming,12/5/2019,18:30,GYM,main gym,39-44,AAA,ZZZ
-287,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-288,ECSE 251,001,Electric and Magnetic Fields,12/6/2019,9:00,GYM,Fieldhouse,43-44,AAA,ZZZ
-289,ECSE 307,001,Linear Systems and Control,12/18/2019,9:00,GYM,Studio 1,1-4,AAA,ZZZ
-290,ECSE 308,001,Intro to Commun Sys & Networks,12/12/2019,9:00,GYM,Fieldhouse,38-40,AAA,ZZZ
-291,ECSE 309,001,Fund. of Comm Systems&Networks,12/12/2019,9:00,GYM,Fieldhouse,38-40,AAA,ZZZ
-292,ECSE 321,001,Intro. to Software Engineering,12/6/2019,9:00,GYM,Fieldhouse,35-38,AAA,ZZZ
-293,ECSE 324,001,Computer Organization,12/9/2019,18:30,GYM,main gym,13-24,AAA,ZZZ
-294,ECSE 326,001,Software Requirements Engineer,12/17/2019,18:30,GYM,Fieldhouse,11-14,AAA,ZZZ
-295,ECSE 331,001,Electronics,12/11/2019,9:00,GYM,main gym,18-23,AAA,ZZZ
-296,ECSE 334,001,Intro. to Microelectronics,12/18/2019,9:00,GYM,main gym,33-35,AAA,ZZZ
-297,ECSE 335,001,Microelectronics,12/18/2019,9:00,GYM,main gym,33-35,AAA,ZZZ
-298,ECSE 352,001,Electromagnetic Waves,12/19/2019,9:00,GYM,main gym,28-30,AAA,ZZZ
-299,ECSE 353,001,Electromagnetic Fields&Waves,12/19/2019,18:30,GYM,Fieldhouse,24-25,AAA,ZZZ
-300,ECSE 354,001,Electromag Wave Propagation,12/19/2019,9:00,GYM,main gym,28-30,AAA,ZZZ
-301,ECSE 361,001,Power Engineering,12/17/2019,9:00,GYM,Fieldhouse,40-41,AAA,ZZZ
-302,ECSE 362,001,Fundamentals of Power Eng,12/17/2019,9:00,GYM,Fieldhouse,40-41,AAA,ZZZ
-303,ECSE 403,001,Control,12/16/2019,9:00,GYM,main gym,36-38,AAA,ZZZ
-304,ECSE 408,001,Communication Systems,12/6/2019,14:00,ENGTR,0060,,AAA,ZZZ
-305,ECSE 412,001,Discrete TimeSignal Processing,12/10/2019,18:30,GYM,main gym,1-3,AAA,ZZZ
-306,ECSE 415,001,Intro to Computer Vision,12/11/2019,14:00,GYM,main gym,17-23,AAA,ZZZ
-307,ECSE 427,001,Operating Systems,12/18/2019,9:00,GYM,Fieldhouse,32-39,AAA,ZZZ
-308,ECSE 437,001,Software Delivery,12/17/2019,14:00,GYM,main gym,16-19,AAA,ZZZ
-309,ECSE 446,001,Realistic Image Synthesis,12/9/2019,14:00,GYM,main gym,25-30,AAA,ZZZ
-310,ECSE 461,001,Electric Machinery,12/6/2019,14:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-311,ECSE 501,001,Linear Systems,12/5/2019,18:30,ENGTR,0060,,AAA,ZZZ
-312,ECSE 501,002,Linear Systems,12/5/2019,18:30,ENGTR,0060,,AAA,ZZZ
-313,ECSE 509,001,Probability & Random Signals 2,12/17/2019,14:00,ENGTR,1100,,AAA,ZZZ
-314,ECSE 509,002,Probability & Random Signals 2,12/17/2019,14:00,ENGTR,1100,,AAA,ZZZ
-315,ECSE 512,001,Digital Signal Processing 1,12/10/2019,18:30,GYM,main gym,1-3,AAA,ZZZ
-316,ECSE 512,002,Digital Signal Processing 1,12/10/2019,18:30,GYM,main gym,1-3,AAA,ZZZ
-317,ECSE 519,001,Semicon Nanostr & Nanophot Dev,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-318,ECSE 519,002,Semicon Nanostr & Nanophot Dev,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-319,ECSE 534,001,Analog Microelectronics,12/17/2019,18:30,TAKE,HOME,,AAA,ZZZ
-320,ECSE 534,002,Analog Microelectronics,12/17/2019,18:30,TAKE,HOME,,AAA,ZZZ
-321,ECSE 546,001,Advanced Image Synthesis,12/9/2019,14:00,GYM,main gym,25-30,AAA,ZZZ
-322,ECSE 546,002,Advanced Image Synthesis,12/9/2019,14:00,GYM,main gym,25-30,AAA,ZZZ
-323,EDEC 247,001,Policy Issues in Quebec Educ,12/17/2019,9:00,GYM,Fieldhouse,32-39,AAA,ZZZ
-324,EDEC 247,002,Policy Issues in Quebec Educ,12/17/2019,9:00,GYM,Fieldhouse,32-39,AAA,ZZZ
-325,EDEC 247,761,Policy Issues in Quebec Educ,12/17/2019,9:00,GYM,Fieldhouse,32-39,AAA,ZZZ
-326,EDEE 230,001,Elementary School Math. 1,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-327,EDEE 230,002,Elementary School Math. 1,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-328,EDEE 230,003,Elementary School Math. 1,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-329,EDEE 280,001,"Geog., Hist. & Citizenship Ed.",12/18/2019,9:00,GYM,Fieldhouse,9-12,AAA,ZZZ
-330,EDKP 261,001,Motor Development,12/9/2019,14:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-331,EDKP 261,002,Motor Development,12/9/2019,14:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-332,EDKP 292,001,Nutrition and Wellness,12/12/2019,9:00,GYM,Fieldhouse,1-7,AAA,ZZZ
-333,EDKP 293,001,Anatomy and Physiology,12/19/2019,18:30,GYM,Fieldhouse,26-27,AAA,ZZZ
-334,EDKP 330,001,Physical Activity and Health,12/18/2019,9:00,GYM,main gym,21-29,AAA,ZZZ
-335,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-336,EDKP 330,002,Physical Activity and Health,12/18/2019,9:00,GYM,main gym,21-29,AAA,ZZZ
-337,EDKP 391,001,Physiology in Sport & Exercise,12/16/2019,9:00,GYM,main gym,39-41,AAA,ZZZ
-338,EDKP 395,001,Exercise Physiology,12/16/2019,9:00,GYM,Fieldhouse,25-27,AAA,ZZZ
-339,EDKP 396,001,Adapted Physical Activity,12/19/2019,14:00,GYM,Fieldhouse,36-39,AAA,ZZZ
-340,EDKP 396,002,Adapted Physical Activity,12/19/2019,14:00,GYM,Fieldhouse,36-39,AAA,ZZZ
-341,EDKP 444,001,Ergonomics,12/5/2019,14:00,GYM,Fieldhouse,45-46,AAA,ZZZ
-342,EDKP 445,001,Exercise Metabolism,12/6/2019,14:00,GYM,408,,AAA,ZZZ
-343,EDKP 498,001,Sport Psychology,12/11/2019,9:00,GYM,main gym,24-32,AAA,ZZZ
-344,EDKP 498,002,Sport Psychology,12/11/2019,9:00,GYM,main gym,24-32,AAA,ZZZ
-345,EDKP 498,003,Sport Psychology,12/11/2019,9:00,GYM,main gym,24-32,AAA,ZZZ
-346,EDSL 305,001,L2 Learning:Classroom Settings,12/12/2019,14:00,GYM,main gym,37-40,AAA,ZZZ
-347,ENGL 202,001,Dept. Survey of English Lit. 1,12/12/2019,14:00,GYM,main gym,3-12,AAA,ZZZ
-348,ENGL 215,001,Intro to Shakespeare,12/5/2019,9:00,TAKE,HOME,,AAA,ZZZ
-349,ENGL 229,001,Canadian Literature 2,12/13/2019,14:00,GYM,main gym,42-45,AAA,ZZZ
-350,ENGL 230,001,Intro to Theatre Studies,12/20/2019,9:00,ARTS,W-215,,AAA,ZZZ
-351,ENGL 277,001,Introduction to Film Studies,12/19/2019,14:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-352,ENGL 311,001,Poetics,12/6/2019,14:00,GYM,main gym,27-33,AAA,ZZZ
-353,ENGL 311,002,Poetics,12/6/2019,14:00,GYM,main gym,27-33,AAA,ZZZ
-354,ENGL 311,003,Poetics,12/6/2019,14:00,GYM,main gym,27-33,AAA,ZZZ
-355,ENGL 311,004,Poetics,12/6/2019,14:00,GYM,main gym,27-33,AAA,ZZZ
-356,ENGL 313,001,Canadian Drama and Theatre,12/10/2019,9:00,TAKE,HOME,,AAA,ZZZ
-357,ENGL 316,001,Milton,12/11/2019,14:00,TAKE,HOME,,AAA,ZZZ
-358,ENGL 318,001,Theory of English Studies 2,12/13/2019,9:00,GYM,Fieldhouse,9,AAA,ZZZ
-359,ENGL 322,001,Theories of the Text,12/9/2019,14:00,TAKE,HOME,,AAA,ZZZ
-360,ENGL 326,001,19th Century American Prose,12/17/2019,18:30,GYM,main gym,25-27,AAA,ZZZ
-361,ENGL 335,001,The 20th Century Novel 1,12/10/2019,9:00,TAKE,HOME,,AAA,ZZZ
-362,ENGL 356,001,Middle English,12/5/2019,14:00,TAKE,HOME,,AAA,ZZZ
-363,ENGL 422,001,Studies in 19th C American Lit,12/18/2019,14:00,TAKE,HOME,,AAA,ZZZ
-364,ENTO 330,001,Insect Biology,12/19/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-365,ENTO 330,001L,Insect Biology,12/12/2019,14:M00a,donald Ste,art MSB-023,,AAA,ZZZ
-366,ENVB 210,001,The Biophysical Environment,12/19/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-367,ENVB 301,001,Meteorology,12/18/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-368,ENVB 410,001,Ecosystem Ecology,12/9/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-369,ENVR 200,001,The Global Environment,12/10/2019,18:30,GYM,main gym,4-13,AAA,ZZZ
-370,ENVR 200,051,The Global Environment,12/11/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-371,ENVR 201,001,"Society,Environ&Sustainability",12/17/2019,18:30,GYM,Fieldhouse,3-10,AAA,ZZZ
-372,ENVR 203,051,"Knowledge, Ethics&Environment",12/17/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-373,EPSC 185,001,Natural Disasters,12/19/2019,18:30,GYM,main gym,3-41,AAA,ZZZ
-374,EPSC 201,001,Understanding Planet Earth,12/10/2019,9:00,GYM,Fieldhouse,30-35,AAA,ZZZ
-375,EPSC 210,001,Introductory Mineralogy,12/13/2019,14:00,ADAMS,348,,AAA,ZZZ
-376,EPSC 220,001,Principles of Geochemistry,12/19/2019,9:00,ADAMS,211,,AAA,ZZZ
-377,EPSC 221,001,General Geology,12/13/2019,9:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-378,EPSC 233,001,Earth and Life History,12/20/2019,9:00,ADAMS,348,,AAA,ZZZ
-379,EPSC 303,001,Structural Geology,12/19/2019,9:00,ADAMS,348,,AAA,ZZZ
-380,EPSC 320,001,Elementary Earth Physics,12/5/2019,14:00,ADAMS,315,,AAA,ZZZ
-381,EPSC 340,001,Earth and Planetary Inference,12/11/2019,14:00,ADAMS,348,,AAA,ZZZ
-382,EPSC 519,001,Isotopes in Earth & Env Sci,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-383,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-384,ESYS 300,001,Investigating the Earth System,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-385,EXMD 501,001,Clinical Applications of Regenerati,12/11/2019,9:00,ENGTR,0060,,AAA,ZZZ
-386,EXMD 502,001,Advanced Endocrinology 1,12/16/2019,18:30,GYM,BLEACHERS,4-5,AAA,ZZZ
-387,EXMD 504,001,Biology of Cancer,12/6/2019,14:00,GYM,Fieldhouse,18-20,AAA,ZZZ
-388,EXMD 506,001,Adv Appl Cardiovascular Physio,12/9/2019,9:00,BLOCK E GlenSite,EM1.3509,,AAA,ZZZ
-389,EXMD 507,001,Adv Respiratory Physiology,12/6/2019,14:00,GYM,main gym,44-45,AAA,ZZZ
-390,EXMD 510,001,Bioanalytical Separation Meth,12/18/2019,14:00,DurfordHouse,Conference RoomF1,,AAA,ZZZ
-391,FACC 220,001,Law for Architects & Engineers,12/9/2019,9:00,GYM,main gym,15-23,AAA,ZZZ
-392,FACC 300,001,Engineering Economy,12/5/2019,9:00,GYM,Fieldhouse,1-11,AAA,ZZZ
-393,FACC 300,002,Engineering Economy,12/5/2019,9:00,GYM,Fieldhouse,1-11,AAA,ZZZ
-394,FACC 400,001,Eng Professional Practice,12/12/2019,18:30,GYM,Fieldhouse,33-44,AAA,ZZZ
-395,FACC 400,002,Eng Professional Practice,12/12/2019,18:30,GYM,Fieldhouse,33-44,AAA,ZZZ
-396,FDSC 200,001,Introduction to Food Science,12/19/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-397,FDSC 213,001,Analytical Chemistry 1,12/20/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-398,FDSC 230,001,Organic Chemistry,12/16/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-399,FDSC 300,001,Principles of Food Analysis 1,12/10/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-400,FDSC 405,001,Food Product Development,12/10/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-401,FDSC 442,001,Food Microbiology,12/17/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-402,FDSC 520,001,Biophysical Chemistry of Food,12/6/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-403,FDSC 626,001,Food Safety Risk Assessment,12/5/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-404,FDSC 651,001,Principles of Food Analysis 2,12/10/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-405,FILM 279,001,Introduction to Film History,12/6/2019,14:00,TAKE,HOME,,AAA,ZZZ
-406,FINE 342,001,Corporate Finance,12/20/2019,9:00,GYM,Fieldhouse,38-41,AAA,ZZZ
-407,FINE 342,002,Corporate Finance,12/20/2019,9:00,GYM,Fieldhouse,33-37,AAA,ZZZ
-408,FINE 441,001,Investment Management,12/5/2019,18:30,GYM,Studio 1,1-6,AAA,McH
-409,FINE 441,002,Investment Management,12/5/2019,18:30,GYM,Studio 1,1-6,AAA,McH
-410,FINE 441,003,Investment Management,12/5/2019,18:30,GYM,Studio 1,7,AAA,McH
-411,FINE 441,003,Investment Management,12/5/2019,18:30,GYM,Studio 2,1-7,McN,ZZZ
-412,FINE 441,004,Investment Management,12/5/2019,18:30,GYM,Studio 1,7,AAA,McH
-413,FINE 441,004,Investment Management,12/5/2019,18:30,GYM,Studio 2,1-7,McN,ZZZ
-414,FINE 442,001,Capital Markets & Institutions,12/17/2019,9:00,GYM,main gym,29-37,AAA,ZZZ
-415,FINE 442,002,Capital Markets & Institutions,12/17/2019,9:00,GYM,main gym,29-37,AAA,ZZZ
-416,FINE 442,003,Capital Markets & Institutions,12/17/2019,9:00,GYM,main gym,29-37,AAA,ZZZ
-417,FINE 445,001,Real Estate Finance,12/11/2019,14:00,GYM,main gym,24-29,AAA,ZZZ
-418,FINE 445,002,Real Estate Finance,12/11/2019,14:00,GYM,main gym,24-29,AAA,ZZZ
-419,FINE 447,001,Venture Capital & Ent Finance,12/20/2019,9:00,GYM,main gym,40-42,AAA,ZZZ
-420,FINE 448,001,Financial Derivatives,12/19/2019,9:00,GYM,Studio 1,1-6,AAA,ZZZ
-421,FINE 448,002,Financial Derivatives,12/19/2019,9:00,GYM,Studio 1,1-6,AAA,ZZZ
-422,FINE 622,061,Modern Corporate Finance,5-Dec,18:00,ARMST,060,,AAA,ZZZ
-423,FINE 639,001,Derivatives and Risk Management,9-Dec,14:00,ARMST,060,,AAA,ZZZ
-424,FINE 648,001,Applied Corporate Finance,6-Dec,9:00,ARMST,060,,AAA,ZZZ
-425,FINE 684,065,Fixed Income Analysis,12-Dec,13:00,ARMST,065,,AAA,ZZZ
-426,FINE 688,065,Mergers and Acquistions,10-Dec,9:00,ARMST,065,,AAA,ZZZ
-427,FMT4 005,001,Introduction to Plant Science,12/18/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-428,FMT4 006,001,Pesticides and the Environment,12/19/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-429,FMT4 014,001,Marketing Strategies,12/17/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-430,FMT4 015,001,Forest Management,12/18/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-431,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-432,FMT4 019,001,Nutrient Management Plan,12/13/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-433,FMT4 020,001,Conservation of Soil and Water,12/16/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-434,FMT4 022,001,Equipment Management,12/17/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-435,FMT4 028,001,Dairy Replacement Management,12/13/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-436,FMT4 031,001,Beef and Sheep Management,12/16/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-437,FMT4 035,001,Field Crop Management 1,12/11/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-438,FMTP 075,001,Langue française&communication,12/12/2019,9:00,CENTEN,CC-162,,AAA,ZZZ
-439,FREN 250,001,Litt française avant 1800,12/16/2019,9:00,GYM,Fieldhouse,45-46,AAA,ZZZ
-440,FREN 252,001,Littérature québécoise,12/18/2019,9:00,GYM,Fieldhouse,27-28,AAA,ZZZ
-441,FREN 381,001,Littératures francophones 2,12/9/2019,14:00,ARTS,W-215,,AAA,ZZZ
-442,FREN 453,001,Littérature du 20e siècle,12/10/2019,18:30,ARTS,W-5,,AAA,ZZZ
-443,FREN 461,001,Enjeux litt et cult 1,12/12/2019,14:00,TAKE,HOME,,AAA,ZZZ
-444,FREN 480,001,Litt. québécoise contemporaine,12/20/2019,9:00,ARTS,W-220,,AAA,ZZZ
-445,FRSL 101,001,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-446,FRSL 101,002,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-447,FRSL 101,003,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-448,FRSL 101,004,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-449,FRSL 101,005,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-450,FRSL 101,006,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-451,FRSL 101,007,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-452,FRSL 101,008,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-453,FRSL 101,009,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-454,FRSL 101,010,Beginners French 1,12/6/2019,9:00,AMLF,MS-37,,AAA,ZZZ
-455,GEOG 201,001,Intro Geo-Information Science,12/17/2019,14:00,TAKE,HOME,,AAA,ZZZ
-456,GEOG 202,001,Statistics & Spatial Analysis,12/20/2019,9:00,BURN,511,,AAA,ZZZ
-457,GEOG 203,001,Environmental Systems,12/12/2019,14:00,GYM,Fieldhouse,3-9,AAA,ZZZ
-458,GEOG 216,001,Geography of the World Economy,12/16/2019,9:00,GYM,main gym,3-23,AAA,ZZZ
-459,GEOG 272,001,Earth's Changing Surface,12/11/2019,9:00,GYM,Fieldhouse,41-43,AAA,ZZZ
-460,GEOG 305,001,Soils and Environment,12/9/2019,18:30,GYM,main gym,37-38,AAA,ZZZ
-461,GEOG 316,001,Political Geography,12/5/2019,9:00,GYM,Fieldhouse,12-13,AAA,ZZZ
-462,GEOG 407,001,Issues in Geography,12/12/2019,14:00,TAKE,HOME,,AAA,ZZZ
-463,GEOG 408,001,Geography of Development,12/20/2019,18:30,TAKE,HOME,,AAA,ZZZ
-464,GEOG 417,001,Urban Geography,12/20/2019,14:00,TAKE,HOME,,AAA,ZZZ
-465,GSFS 301,001,Current Topics 1,12/13/2019,18:30,TAKE,HOME,,AAA,ZZZ
-466,HISP 218,001,Spanish Lang Intens-Elem,12/11/2019,9:00,GYM,Fieldhouse,44-45,AAA,ZZZ
-467,HISP 218,002,Spanish Lang Intens-Elem,12/11/2019,9:00,GYM,Fieldhouse,44-45,AAA,ZZZ
-468,HISP 219,001,Spanish Lang Intens-Intermed,12/11/2019,9:00,GYM,main gym,34-35,AAA,ZZZ
-469,HISP 225,001,Hispanic Civilization 1,12/19/2019,18:30,GYM,Fieldhouse,28-31,AAA,ZZZ
-470,HISP 243,001,Survey of Lat Amer Lit&Cult1,12/12/2019,9:00,GYM,Fieldhouse,43-44,AAA,ZZZ
-471,HIST 202,001,Survey: Canada to 1867,12/18/2019,14:00,TAKE,HOME,,AAA,ZZZ
-472,HIST 205,001,Ancient Mediterranean History,12/12/2019,18:30,GYM,Fieldhouse,18-23,AAA,ZZZ
-473,HIST 208,001,Intro to East Asian History,12/19/2019,14:00,GYM,Studio 1,1-7,AAA,ZZZ
-474,HIST 211,001,American History to 1865,12/12/2019,14:00,GYM,main gym,23-29,AAA,ZZZ
-475,HIST 216,001,Intro to Russian History,12/11/2019,9:00,GYM,Fieldhouse,1-6,AAA,ZZZ
-476,HIST 223,002,Indigenous Peoples and Empires,12/6/2019,14:00,GYM,Fieldhouse,21-25,AAA,ZZZ
-477,HIST 226,001,E Central &SE Europe in 20th C,12/19/2019,9:00,GYM,Fieldhouse,1-3,AAA,ZZZ
-478,HIST 249,001,Health&the Healer in West Hist,12/13/2019,18:30,TAKE,HOME,,AAA,ZZZ
-479,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-480,HIST 292,001,History and the Environment,12/6/2019,14:00,ENGTR,1090,,AAA,ZZZ
-481,HIST 298,001,Topics in History,12/17/2019,14:00,GYM,main gym,20-23,AAA,ZZZ
-482,HIST 301,001,U.S. Mass Media,12/6/2019,18:30,TAKE,HOME,,AAA,ZZZ
-483,HIST 302,001,IR History 1: 1750-1950,12/5/2019,14:00,TAKE,HOME,,AAA,ZZZ
-484,HIST 309,001,Hist of Latin America to 1825,12/5/2019,9:00,TAKE,HOME,,AAA,ZZZ
-485,HIST 315,001,Themes in World History,12/16/2019,18:30,GYM,main gym,39-42,AAA,ZZZ
-486,HIST 315,002,Themes in World History,12/16/2019,18:30,GYM,main gym,43-44,AAA,ZZZ
-487,HIST 333,001,Indigenous Peoples & French,12/20/2019,14:00,TAKE,HOME,,AAA,ZZZ
-488,HIST 335,001,Science and Medicine in Canada,12/19/2019,14:00,GYM,main gym,33-35,AAA,ZZZ
-489,HIST 345,001,Hist of Italian Renaissance,12/10/2019,14:00,GYM,main gym,40-43,AAA,ZZZ
-490,HIST 349,001,Greece: From Ottoman to the EU,12/12/2019,14:00,TAKE,HOME,,AAA,ZZZ
-491,HIST 368,001,Greek Hist: Classical Period,12/20/2019,9:00,GYM,main gym,34-37,AAA,ZZZ
-492,HIST 387,001,The First World War,12/9/2019,14:00,GYM,Studio 1,1-5,AAA,ZZZ
-493,HIST 393,001,Civil War and Reconstruction,12/13/2019,14:00,GYM,Studio 1,1-6,AAA,MIL
-494,HIST 393,001,Civil War and Reconstruction,12/13/2019,14:00,GYM,Studio 2,1-5,MIT,ZZZ
-495,INDG 200,001,Intro. to Indigenous Studies,12/9/2019,9:00,GYM,Studio 1,1-7,AAA,ZZZ
-496,INDG 202,001,Topics in Indigenous Studies 1,12/12/2019,9:00,FERRIER,105,,AAA,ZZZ
-497,INDR 294,001,Intro to Labour-Mgmt Relations,12/17/2019,14:00,GYM,Fieldhouse,41-42,AAA,ZZZ
-498,INDR 459,001,Comparative Employ. Relations,12/11/2019,14:00,GYM,main gym,30-31,AAA,ZZZ
-499,INDR 492,001,Globalization & Labour Policy,12/9/2019,14:00,GYM,main gym,37-39,AAA,ZZZ
-500,INSY 333,001,Systems Analysis & Modelling,12/19/2019,14:00,GYM,Fieldhouse,5-6,AAA,ZZZ
-501,INSY 336,001,DataHandl&Coding for Analytics,12/9/2019,18:30,BRONF/ARMST,205/075,,AAA,ZZZ
-502,INSY 341,001,Developing Business Apps,12/13/2019,14:00,ARMST,060,,AAA,ZZZ
-503,INSY 432,071,Digital Business Models,12/11/2019,9:00,GYM,main gym,36-38,AAA,ZZZ
-504,INSY 440,051,E-Business,12/17/2019,18:30,GYM,Fieldhouse,16,AAA,ZZZ
-505,INSY 450,001,IS Project Management,12/5/2019,14:00,GYM,main gym,41-43,AAA,ZZZ
-506,INSY 661,075,Data and Dist Sys for Analytics,9-Dec,9:00,ARMST,260,,AAA,ZZZ
-507,INSY 662,075,Data Mining and Visualization,6-Dec,9:00,BRONFMAN,205,,AAA,ZZZ
-508,INTD 200,001,Intro to Int'l Development,12/12/2019,9:00,TAKE,HOME,,AAA,ZZZ
-509,INTD 350,001,Culture and Development,12/13/2019,9:00,TAKE,HOME,,AAA,ZZZ
-510,INTD 397,001,Topics in Int'l Development,12/13/2019,14:00,GYM,main gym,38-41,AAA,ZZZ
-511,INTG 201,061,Integrated Mgmt Essentials 1,12/9/2019,9:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-512,ISLA 200,001,Islamic Civilization,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-513,ISLA 300,001,Special Topics 7,12/12/2019,14:00,TAKE,HOME,,AAA,ZZZ
-514,ISLA 380,001,Islamic Philosophy & Theology,12/20/2019,14:00,TAKE,HOME,,AAA,ZZZ
-515,ISLA 521D1,001,Introductory Arabic,12/10/2019,18:30,GYM,Fieldhouse,45-46,AAA,ZZZ
-516,ISLA 521D1,002,Introductory Arabic,12/10/2019,18:30,GYM,Fieldhouse,45-46,AAA,ZZZ
-517,ISLA 521D1,003,Introductory Arabic,12/10/2019,18:30,GYM,Fieldhouse,45-46,AAA,ZZZ
-518,ISLA 522D1,001,Lower Intermediate Arabic,12/6/2019,9:00,GYM,Fieldhouse,30,AAA,ZZZ
-519,ISLA 522D1,002,Lower Intermediate Arabic,12/6/2019,9:00,GYM,Fieldhouse,30,AAA,ZZZ
-520,ISLA 523D1,001,Higher Intermediate Arabic,12/10/2019,14:00,ARTS,260,,AAA,ZZZ
-521,ISLA 524,001,Advanced Arabic 1,12/11/2019,14:00,BURN,1B23,,AAA,ZZZ
-522,ISLA 532D1,001,Introductory Turkish,12/6/2019,9:00,MOR,328,,AAA,ZZZ
-523,ISLA 533D1,001,Lower Intermediate Turkish,12/18/2019,9:00,MOR,328,,AAA,ZZZ
-524,ISLA 534D1,001,Higher Intermediate Turkish,12/11/2019,14:00,MOR,328,,AAA,ZZZ
-525,ISLA 541D1,001,Introductory Persian,12/6/2019,14:00,ARTS,W-20,,AAA,ZZZ
-526,ISLA 542D1,001,Lower Intermediate Persian,12/9/2019,14:00,ARTS,W-20,,AAA,ZZZ
-527,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-528,ISLA 543,001,Upper Intermediate Persian 1,12/18/2019,9:00,ARTS,W-20,,AAA,ZZZ
-529,ITAL 206,001,Beginners Italian Intensive,12/19/2019,14:00,GYM,305,1-5,AAA,ZZZ
-530,ITAL 206,002,Beginners Italian Intensive,12/19/2019,14:00,GYM,305,1-5,AAA,ZZZ
-531,ITAL 216,001,Intermediate Italian Intensive,12/16/2019,9:00,SH688,495,,AAA,ZZZ
-532,LING 201,001,Introduction to Linguistics,12/17/2019,18:30,GYM,Fieldhouse,29-36,AAA,ZZZ
-533,LING 260,001,Meaning in Language,12/12/2019,9:00,GYM,Fieldhouse,19-20,AAA,ZZZ
-534,LING 330,001,Phonetics,12/16/2019,14:00,GYM,Fieldhouse,44-46,AAA,ZZZ
-535,LING 331,001,Phonology 1,12/10/2019,18:30,GYM,Fieldhouse,1-3,AAA,ZZZ
-536,LING 360,001,Introduction to Semantics,12/13/2019,9:00,MAASS,112,,AAA,ZZZ
-537,LING 371,001,Syntax 1,12/9/2019,9:00,GYM,main gym,38-41,AAA,ZZZ
-538,LING 461,001,Formal Methods in Linguistics,12/19/2019,9:00,PE1085,002,,AAA,ZZZ
-539,LLCU 199,001,FYS: Literary Animals,12/12/2019,18:30,TAKE,HOME,,AAA,ZZZ
-540,LSCI 204,001,Genetics,12/20/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-541,LSCI 211,001,Biochemistry 1,12/12/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-542,MATH 122,001,Calculus for Management,12/9/2019,18:30,GYM,Studio 1,1-7,AAA,McF
-543,MATH 122,001,Calculus for Management,12/9/2019,18:30,GYM,Studio 2,1-7,MEH,ZZZ
-544,MATH 123,001,Linear Algebra and Probability,12/11/2019,14:00,GYM,main gym,32-37,AAA,ZZZ
-545,MATH 125,001,Math.Techniques for Economics,12/20/2019,9:00,GYM,main gym,43-44,AAA,ZZZ
-546,MATH 133,001,Linear Algebra and Geometry,12/5/2019,18:30,GYM,Fieldhouse,1-40,AAA,ZZZ
-547,MATH 133,002,Linear Algebra and Geometry,12/5/2019,18:30,GYM,Fieldhouse,1-40,AAA,ZZZ
-548,MATH 133,003,Linear Algebra and Geometry,12/5/2019,18:30,GYM,Fieldhouse,1-40,AAA,ZZZ
-549,MATH 133,004,Linear Algebra and Geometry,12/5/2019,18:30,GYM,Fieldhouse,1-40,AAA,ZZZ
-550,MATH 139,001,Calculus 1 with Precalculus,12/11/2019,14:00,GYM,Fieldhouse,39-46,AAA,ZZZ
-551,MATH 140,001,Calculus 1,12/10/2019,14:00,GYM,Fieldhouse,1-35,AAA,ZZZ
-552,MATH 140,002,Calculus 1,12/10/2019,14:00,GYM,Fieldhouse,1-35,AAA,ZZZ
-553,MATH 140,003,Calculus 1,12/10/2019,14:00,GYM,Fieldhouse,1-35,AAA,ZZZ
-554,MATH 141,001,Calculus 2,12/11/2019,14:00,GYM,Fieldhouse,1-17,AAA,ZZZ
-555,MATH 141,002,Calculus 2,12/11/2019,14:00,GYM,Fieldhouse,1-17,AAA,ZZZ
-556,MATH 150,001,Calculus A,12/12/2019,14:00,GYM,main gym,13-16,AAA,ZZZ
-557,MATH 180,001,The Art of Mathematics,12/5/2019,14:00,GYM,Fieldhouse,1-8,AAA,ZZZ
-558,MATH 203,001,Principles of Statistics 1,12/6/2019,14:00,GYM,Fieldhouse,1-15,AAA,ZZZ
-559,MATH 203,002,Principles of Statistics 1,12/6/2019,14:00,GYM,Fieldhouse,1-15,AAA,ZZZ
-560,MATH 208,001,Intro to Statistical Computing,12/6/2019,9:00,GYM,main gym,24-28,AAA,ZZZ
-561,MATH 222,001,Calculus 3,12/12/2019,18:30,GYM,Fieldhouse,1-17,AAA,ZZZ
-562,MATH 222,002,Calculus 3,12/12/2019,18:30,GYM,Fieldhouse,1-17,AAA,ZZZ
-563,MATH 223,001,Linear Algebra,12/10/2019,14:00,GYM,Fieldhouse,36-46,AAA,ZZZ
-564,MATH 223,002,Linear Algebra,12/10/2019,14:00,GYM,Fieldhouse,36-46,AAA,ZZZ
-565,MATH 228,001,Classical Geometry,12/18/2019,9:00,GYM,main gym,30-32,AAA,ZZZ
-566,MATH 235,001,Algebra 1,12/13/2019,14:00,GYM,Fieldhouse,1-14,AAA,ZZZ
-567,MATH 240,001,Discrete Structures,12/19/2019,14:00,GYM,Fieldhouse,7-22,AAA,ZZZ
-568,MATH 240,002,Discrete Structures,12/19/2019,14:00,GYM,Fieldhouse,7-22,AAA,ZZZ
-569,MATH 242,001,Analysis 1,12/19/2019,14:00,GYM,Fieldhouse,29-35,AAA,ZZZ
-570,MATH 248,001,Honours Vector Calculus,12/5/2019,9:00,GYM,Fieldhouse,36-38,AAA,ZZZ
-571,MATH 254,001,Honours Analysis 1,12/10/2019,18:30,GYM,main gym,14-23,AAA,ZZZ
-572,MATH 262,001,Intermediate Calculus,12/10/2019,14:00,GYM,main gym,5-39,AAA,ZZZ
-573,MATH 262,002,Intermediate Calculus,12/10/2019,14:00,GYM,main gym,5-39,AAA,ZZZ
-574,MATH 262,003,Intermediate Calculus,12/10/2019,14:00,GYM,main gym,5-39,AAA,ZZZ
-575,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-576,MATH 263,001,ODEs for Engineers,12/18/2019,14:00,GYM,Fieldhouse,30-43,AAA,ZZZ
-577,MATH 263,002,ODEs for Engineers,12/18/2019,14:00,GYM,Fieldhouse,30-43,AAA,ZZZ
-578,MATH 264,001,Adv Calculus for Engineers,12/16/2019,18:30,GYM,Fieldhouse,5-10,AAA,ZZZ
-579,MATH 271,001,Linear Algebra and PDE's,12/16/2019,18:30,GYM,Fieldhouse,40-46,AAA,ZZZ
-580,MATH 314,001,Advanced Calculus,12/9/2019,9:00,GYM,Fieldhouse,42-46,AAA,ZZZ
-581,MATH 315,001,Ordinary Differential Eqns,12/5/2019,18:30,GYM,Fieldhouse,41-46,AAA,ZZZ
-582,MATH 316,001,Complex Variables,12/11/2019,14:00,GYM,main gym,41-45,AAA,ZZZ
-583,MATH 317,001,Numerical Analysis,12/17/2019,9:00,GYM,main gym,38-42,AAA,ZZZ
-584,MATH 318,001,Mathematical Logic,12/13/2019,14:00,GYM,305,1-7,AAA,MAR
-585,MATH 318,001,Mathematical Logic,12/13/2019,14:00,GYM,408,1-7,MAT,ZZZ
-586,MATH 323,001,Probability,12/20/2019,9:00,GYM,main gym,6-25,AAA,ZZZ
-587,MATH 323,002,Probability,12/20/2019,9:00,GYM,main gym,6-25,AAA,ZZZ
-588,MATH 324,001,Statistics,12/6/2019,14:00,GYM,Fieldhouse,35-39,AAA,ZZZ
-589,MATH 326,001,Nonlinear Dynamics and Chaos,12/10/2019,9:00,GYM,main gym,38-43,AAA,ZZZ
-590,MATH 338,001,History & Philosophy of Math,12/13/2019,9:00,GYM,main gym,1-14,AAA,ZZZ
-591,MATH 348,001,Euclidean Geometry,12/12/2019,14:00,GYM,Fieldhouse,10,AAA,ZZZ
-592,MATH 350,001,Honours Discrete Mathematics,12/6/2019,14:00,GYM,Fieldhouse,45-46,AAA,ZZZ
-593,MATH 356,001,Honours Probability,12/20/2019,9:00,GYM,Fieldhouse,44-46,AAA,ZZZ
-594,MATH 376,001,Honours Nonlinear Dynamics,12/10/2019,9:00,GYM,main gym,38-43,AAA,ZZZ
-595,MATH 398,001,Honours Euclidean Geometry,12/12/2019,14:00,GYM,Fieldhouse,10,AAA,ZZZ
-596,MATH 417,001,Linear Optimization,12/20/2019,9:00,GYM,main gym,38-39,AAA,ZZZ
-597,MATH 423,001,Regression&Anal of Variance,12/18/2019,14:00,ENGTR,0070,,AAA,GEO
-598,MATH 423,001,Regression&Anal of Variance,12/18/2019,14:00,ENGTR,0100,,GRA,ZZZ
-599,MATH 427,001,Statistical Quality Control,12/9/2019,9:00,BURN,306,,AAA,ZZZ
-600,MATH 454,001,Honours Analysis 3,12/17/2019,14:00,GYM,Fieldhouse,43-45,AAA,ZZZ
-601,MATH 456,001,Honours Algebra 3,12/12/2019,9:00,GYM,Fieldhouse,28-29,AAA,ZZZ
-602,MATH 466,001,Honours Complex Analysis,12/5/2019,9:00,BURN,920,,AAA,ZZZ
-603,MATH 475,001,Honours PDE's,12/19/2019,9:00,GYM,Fieldhouse,4-6,AAA,ZZZ
-604,MATH 517,001,Honours Linear Optimization,12/20/2019,9:00,GYM,main gym,38-39,AAA,ZZZ
-605,MATH 533,001,Honours Regression and ANOVA,12/18/2019,14:00,ENGTR,0060,,AAA,ZZZ
-606,MATH 553,001,Algorithmic Game Theory,12/9/2019,9:00,GYM,main gym,34-37,AAA,ZZZ
-607,MATH 556,001,Mathematical Statistics 1,12/17/2019,14:00,GYM,main gym,24-26,AAA,ZZZ
-608,MATH 564,001,Advanced Real Analysis 1,12/10/2019,9:00,TAKE,HOME,,AAA,ZZZ
-609,MATH 570,001,Higher Algebra 1,12/6/2019,14:00,BURN,1205,,AAA,ZZZ
-610,MATH 576,001,Geometry & Topology 1,12/9/2019,14:00,GYM,main gym,35-36,AAA,ZZZ
-611,MATH 580,001,Partial Differential Equat's 1,12/18/2019,14:00,BURN,920,,AAA,ZZZ
-612,MATH 587,001,Advanced Probability Theory 1,12/20/2019,9:00,BURN,306,,AAA,ZZZ
-613,MECH 210,001,Mechanics 1,12/19/2019,14:00,GYM,Fieldhouse,40-46,AAA,ZZZ
-614,MECH 210,002,Mechanics 1,12/19/2019,14:00,GYM,Fieldhouse,40-46,AAA,ZZZ
-615,MECH 210,003,Mechanics 1,12/19/2019,14:00,GYM,Fieldhouse,40-46,AAA,ZZZ
-616,MECH 210,008,Mechanics 1,12/19/2019,14:00,GYM,Fieldhouse,40-46,AAA,ZZZ
-617,MECH 220,001,Mechanics 2,12/12/2019,9:00,GYM,Fieldhouse,8-10,AAA,ZZZ
-618,MECH 240,001,Thermodynamics 1,12/5/2019,14:00,GYM,Studio 1,1-6,AAA,ZZZ
-619,MECH 261,001,Measurement Laboratory,12/12/2019,9:00,GYM,main gym,37-43,AAA,ZZZ
-620,MECH 262,001,Statistics and Measurement Lab,12/12/2019,9:00,GYM,main gym,37-43,AAA,ZZZ
-621,MECH 309,001,Numerical Methods in Mech Eng,12/16/2019,18:30,GYM,BLEACHERS,1-3,AAA,ZZZ
-622,MECH 314,001,Dynamics of Mechanisms,12/19/2019,9:00,GYM,main gym,22-27,AAA,ZZZ
-623,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-624,MECH 315,001,Mechanics 3,12/12/2019,14:00,GYM,main gym,17-19,AAA,ZZZ
-625,MECH 321,001,Mechanics of Deformable Solids,12/11/2019,9:00,GYM,main gym,39-43,AAA,ZZZ
-626,MECH 331,001,Fluid Mechanics 1,12/10/2019,18:30,GYM,BLEACHERS,1-5,AAA,ZZZ
-627,MECH 341,001,Thermodynamics 2,12/9/2019,18:30,GYM,main gym,39-44,AAA,ZZZ
-628,MECH 346,001,Heat Transfer,12/10/2019,18:30,GYM,main gym,38-43,AAA,ZZZ
-629,MECH 360,001,Principles of Manufacturing,12/6/2019,9:00,GYM,Fieldhouse,31-32,AAA,ZZZ
-630,MECH 383,001,Appl Electronics&Instrumentn,12/18/2019,9:00,GYM,Fieldhouse,40-43,AAA,ZZZ
-631,MECH 412,001,System Dynamics and Control,12/17/2019,18:30,GYM,Fieldhouse,17-19,AAA,ZZZ
-632,MECH 430,001,Fluid Mechanics 2,12/5/2019,14:00,GYM,Fieldhouse,42-44,AAA,ZZZ
-633,MECH 530,001,Mech of Composite Materials,12/19/2019,14:00,GYM,main gym,36-38,AAA,ZZZ
-634,MECH 530,002,Mech of Composite Materials,12/19/2019,14:00,GYM,main gym,36-38,AAA,ZZZ
-635,MECH 533,001,Subsonic Aerodynamics,12/10/2019,9:00,GYM,Fieldhouse,41,AAA,ZZZ
-636,MECH 533,002,Subsonic Aerodynamics,12/10/2019,9:00,GYM,Fieldhouse,41,AAA,ZZZ
-637,MECH 535,001,Turbomachinery and Propulsion,12/16/2019,14:00,GYM,BLEACHERS,1-2,AAA,ZZZ
-638,MECH 535,002,Turbomachinery and Propulsion,12/16/2019,14:00,GYM,BLEACHERS,1-2,AAA,ZZZ
-639,MECH 542,001,Spacecraft Dynamics,12/18/2019,9:00,GYM,main gym,36-38,AAA,ZZZ
-640,MECH 542,002,Spacecraft Dynamics,12/18/2019,9:00,GYM,main gym,36-38,AAA,ZZZ
-641,MECH 553,001,Design & Manuf of Microdevices,12/10/2019,14:00,ENGTR,0060,,AAA,ZZZ
-642,MECH 553,002,Design & Manuf of Microdevices,12/10/2019,14:00,ENGTR,0060,,AAA,ZZZ
-643,MECH 572,001,Introduction to Robotics,12/6/2019,9:00,GYM,main gym,29-30,AAA,ZZZ
-644,MECH 572,002,Introduction to Robotics,12/6/2019,9:00,GYM,main gym,29-30,AAA,ZZZ
-645,MGCR 211,001,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,12-19,AAA,ZZZ
-646,MGCR 211,002,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,12-19,AAA,ZZZ
-647,MGCR 211,003,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,12-19,AAA,ZZZ
-648,MGCR 211,004,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,20-26,AAA,ZZZ
-649,MGCR 211,005,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,20-26,AAA,ZZZ
-650,MGCR 211,006,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,20-26,AAA,ZZZ
-651,MGCR 211,007,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,7-11,AAA,ZZZ
-652,MGCR 211,051,Intro to Financial Accounting,12/9/2019,9:00,GYM,Fieldhouse,7-11,AAA,ZZZ
-653,MGCR 222,001,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,18-26,AAA,ZZZ
-654,MGCR 222,002,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,3-13,AAA,ZZZ
-655,MGCR 222,003,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,3-13,AAA,ZZZ
-656,MGCR 222,004,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,14-17,AAA,ZZZ
-657,MGCR 222,005,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,3-13,AAA,ZZZ
-658,MGCR 222,006,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,27-31,AAA,ZZZ
-659,MGCR 222,007,Intro to Org Behaviour,12/12/2019,18:30,GYM,main gym,18-26,AAA,ZZZ
-660,MGCR 271,001,Business Statistics,12/5/2019,9:00,GYM,main gym,3-12,AAA,ZZZ
-661,MGCR 271,002,Business Statistics,12/5/2019,9:00,GYM,main gym,3-12,AAA,ZZZ
-662,MGCR 271,003,Business Statistics,12/5/2019,9:00,GYM,main gym,13-17,AAA,ZZZ
-663,MGCR 271,004,Business Statistics,12/5/2019,9:00,GYM,main gym,18-27,AAA,ZZZ
-664,MGCR 271,005,Business Statistics,12/5/2019,9:00,GYM,main gym,28-32,AAA,ZZZ
-665,MGCR 271,006,Business Statistics,12/5/2019,9:00,GYM,main gym,18-27,AAA,ZZZ
-666,MGCR 293,001,Managerial Economics,12/18/2019,14:00,GYM,main gym,15-29,AAA,ZZZ
-667,MGCR 293,002,Managerial Economics,12/18/2019,14:00,GYM,main gym,30-44,AAA,ZZZ
-668,MGCR 293,003,Managerial Economics,12/18/2019,14:00,GYM,main gym,15-29,AAA,ZZZ
-669,MGCR 293,004,Managerial Economics,12/18/2019,14:00,GYM,main gym,15-29,AAA,ZZZ
-670,MGCR 293,005,Managerial Economics,12/18/2019,14:00,GYM,main gym,30-44,AAA,ZZZ
-671,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-672,MGCR 293,006,Managerial Economics,12/18/2019,14:00,GYM,305,1-7,AAA,LAS
-673,MGCR 293,006,Managerial Economics,12/18/2019,14:00,GYM,408,1-7,LAV,ZZZ
-674,MGCR 331,001,Information Systems,12/6/2019,14:00,GYM,main gym,6-21,AAA,ZZZ
-675,MGCR 331,002,Information Systems,12/6/2019,14:00,GYM,main gym,6-21,AAA,ZZZ
-676,MGCR 331,003,Information Systems,12/6/2019,14:00,GYM,main gym,6-21,AAA,ZZZ
-677,MGCR 331,081,Information Systems,12/6/2019,14:00,GYM,main gym,3-5,AAA,ZZZ
-678,MGCR 341,001,Introduction to Finance,12/17/2019,14:00,GYM,Fieldhouse,24-32,AAA,ZZZ
-679,MGCR 341,002,Introduction to Finance,12/17/2019,14:00,GYM,Fieldhouse,24-32,AAA,ZZZ
-680,MGCR 352,001,Principles of Marketing,12/19/2019,14:00,GYM,main gym,8-16,AAA,ZZZ
-681,MGCR 352,002,Principles of Marketing,12/19/2019,14:00,GYM,main gym,8-16,AAA,ZZZ
-682,MGCR 352,003,Principles of Marketing,12/19/2019,14:00,GYM,main gym,8-16,AAA,ZZZ
-683,MGCR 352,004,Principles of Marketing,12/19/2019,14:00,GYM,main gym,17-28,AAA,ZZZ
-684,MGCR 352,005,Principles of Marketing,12/19/2019,14:00,GYM,main gym,17-28,AAA,ZZZ
-685,MGCR 352,006,Principles of Marketing,12/19/2019,14:00,GYM,main gym,17-28,AAA,ZZZ
-686,MGCR 352,007,Principles of Marketing,12/19/2019,14:00,GYM,main gym,29-32,AAA,ZZZ
-687,MGCR 382,001,International Business,12/10/2019,18:30,GYM,Fieldhouse,14-26,AAA,ZZZ
-688,MGCR 382,002,International Business,12/10/2019,18:30,GYM,Fieldhouse,14-26,AAA,ZZZ
-689,MGCR 423,001,Strategic Management,12/16/2019,14:00,GYM,main gym,26-32,AAA,ZZZ
-690,MGCR 423,002,Strategic Management,12/16/2019,14:00,GYM,main gym,26-32,AAA,ZZZ
-691,MGCR 423,003,Strategic Management,12/16/2019,14:00,GYM,main gym,33-36,AAA,ZZZ
-692,MGCR 423,004,Strategic Management,12/16/2019,14:00,GYM,main gym,37-39,AAA,ZZZ
-693,MGCR 423,005,Strategic Management,12/16/2019,14:00,GYM,main gym,40-45,AAA,ZZZ
-694,MGCR 423,051,Strategic Management,12/16/2019,14:00,GYM,main gym,40-45,AAA,ZZZ
-695,MGCR 472,001,Operations Management,12/13/2019,9:00,GYM,Studio 1,1-7,AAA,LOR
-696,MGCR 472,001,Operations Management,12/13/2019,9:00,GYM,Studio 2,1-7,LOW,ZZZ
-697,MGCR 472,002,Operations Management,12/13/2019,9:00,GYM,Studio 1,1-7,AAA,LOR
-698,MGCR 472,002,Operations Management,12/13/2019,9:00,GYM,Studio 2,1-7,LOW,ZZZ
-699,MGCR 472,003,Operations Management,12/13/2019,9:00,GYM,Studio 1,1-7,AAA,LOR
-700,MGCR 472,003,Operations Management,12/13/2019,9:00,GYM,Studio 2,1-7,LOW,ZZZ
-701,MGCR 653,001,Markets and Globalization,13-Dec,13:00,ARMST,065,,AAA,ZZZ
-702,MGCR 653,002,Markets and Globalization,13-Dec,13:00,ARMST,065,,AAA,ZZZ
-703,MGPO 362,001,Fundls of Entrepreneurship,12/9/2019,14:00,GYM,Fieldhouse,41-46,AAA,ZZZ
-704,MGPO 362,002,Fundls of Entrepreneurship,12/9/2019,14:00,GYM,Fieldhouse,41-46,AAA,ZZZ
-705,MGPO 362,003,Fundls of Entrepreneurship,12/9/2019,14:00,GYM,Fieldhouse,39-40,AAA,ZZZ
-706,MGPO 362,061,Fundls of Entrepreneurship,12/9/2019,14:00,GYM,Fieldhouse,41-46,AAA,ZZZ
-707,MGPO 440,001,Strategies for Sustainability,12/6/2019,9:00,TAKE,HOME,,AAA,ZZZ
-708,MGPO 440,002,Strategies for Sustainability,12/6/2019,9:00,TAKE,HOME,,AAA,ZZZ
-709,MGSC 372,001,Advanced Business Statistics,12/10/2019,14:00,GYM,Studio 1,1-7,AAA,MEH
-710,MGSC 372,001,Advanced Business Statistics,12/10/2019,14:00,GYM,Studio 2,1-6,MEL,ZZZ
-711,MGSC 372,002,Advanced Business Statistics,12/10/2019,14:00,GYM,Studio 1,1-7,AAA,MEH
-712,MGSC 372,002,Advanced Business Statistics,12/10/2019,14:00,GYM,Studio 2,1-6,MEL,ZZZ
-713,MGSC 372,003,Advanced Business Statistics,12/10/2019,14:00,GYM,Studio 1,1-7,AAA,MEH
-714,MGSC 372,003,Advanced Business Statistics,12/10/2019,14:00,GYM,Studio 2,1-6,MEL,ZZZ
-715,MGSC 373,001,Operations Research 1,12/9/2019,14:00,GYM,main gym,40-43,AAA,ZZZ
-716,MGSC 401,001,Stat Founds of Data Analytics,12/12/2019,9:00,TAKE,HOME,,AAA,ZZZ
-717,MGSC 401,002,Stat Founds of Data Analytics,12/12/2019,9:00,TAKE,HOME,,AAA,ZZZ
-718,MGSC 404,001,Founds of Decision Analytics,12/5/2019,9:00,ARMST,060,,AAA,ZZZ
-719,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-720,MGSC 404,002,Founds of Decision Analytics,12/5/2019,9:00,ARMST,065,,AAA,ZZZ
-721,MGSC 662,075,Decision Analytics,11-Dec,9:00,ARMST,065,,AAA,ZZZ
-722,MICR 341,001,Mechanisms of Pathogenicity,12/9/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-723,MIME 200,001,Intro to the Minerals Industry,12/6/2019,9:00,GYM,main gym,31-32,AAA,ZZZ
-724,MIME 250,001,Intro to Extractive Metallurgy,12/18/2019,9:00,GYM,Fieldhouse,19-20,AAA,ZZZ
-725,MIME 260,001,Materials Science&Engineering,12/20/2019,9:00,GYM,main gym,3-5,AAA,ZZZ
-726,MIME 260,002,Materials Science&Engineering,12/20/2019,9:00,GYM,main gym,3-5,AAA,ZZZ
-727,MIME 261,001,Structure of Materials,12/12/2019,18:30,GYM,main gym,38-42,AAA,ZZZ
-728,MIME 262,001,Prop.Materials in Elec. Eng.,12/13/2019,9:00,GYM,Fieldhouse,19-20,AAA,ZZZ
-729,MIME 317,001,Analytical&Character'ion Techs,12/5/2019,14:00,ENGTR,0060,,AAA,ZZZ
-730,MIME 329,001,Mining Geology,12/16/2019,9:00,ENGTR,0060,,AAA,ZZZ
-731,MIME 330,001,Mining Geotechnics,12/12/2019,9:00,ENGTR,0060,,AAA,ZZZ
-732,MIME 340,001,Applied Fluid Dynamics,12/17/2019,14:00,GYM,main gym,27-30,AAA,ZZZ
-733,MIME 352,001,Hydrochemical Processing,12/19/2019,14:00,GYM,Fieldhouse,27-28,AAA,ZZZ
-734,MIME 356,001,"Heat, Mass and Fluid Flow",12/17/2019,14:00,GYM,main gym,27-30,AAA,ZZZ
-735,MIME 360,001,Phase Transformations:Solids,12/19/2019,18:30,GYM,Fieldhouse,42-43,AAA,ZZZ
-736,MIME 362,001,Mechanical Properties,12/18/2019,9:00,GYM,Fieldhouse,44-45,AAA,ZZZ
-737,MIME 410,001,Research Project,12/17/2019,9:00,ENGTR,0070,,AAA,ZZZ
-738,MIME 421,001,Rock Mechanics,12/10/2019,9:00,ENGTR,0070,,AAA,ZZZ
-739,MIME 425,001,Appl Stoch Orebody Modelling,12/19/2019,9:00,GYM,Fieldhouse,45,AAA,ZZZ
-740,MIME 465,001,Metal & Ceram Powd Proc,12/12/2019,14:00,GYM,Studio 2,1-4,AAA,ZZZ
-741,MIME 470,001,Engineering Biomaterials,12/10/2019,18:30,GYM,main gym,34-37,AAA,ZZZ
-742,MIME 521,001,Stability of Undergrd Openings,12/10/2019,9:00,ENGTR,0070,,AAA,ZZZ
-743,MIME 525,001,Stochastic Orebody Modelling,12/19/2019,9:00,GYM,Fieldhouse,45,AAA,ZZZ
-744,MIME 527,001,Selected Topics in Min Res Eng,12/5/2019,9:00,ENGTR,0060,,AAA,ZZZ
-745,MIME 570,001,Micro & Nano-Fabrication Fund.,12/17/2019,9:00,ENGTR,1100,,AAA,ZZZ
-746,MIME 570,002,Micro & Nano-Fabrication Fund.,12/17/2019,9:00,ENGTR,1100,,AAA,ZZZ
-747,MIME 652,001,Aqueous Processing,12/19/2019,14:00,GYM,Fieldhouse,27-28,AAA,ZZZ
-748,MIME 665,001,Adv Proc of Powder Materials,12/12/2019,14:00,GYM,Studio 2,1-4,AAA,ZZZ
-749,MIMM 211,001,Introductory Microbiology,12/12/2019,14:00,GYM,Fieldhouse,36-45,AAA,ZZZ
-750,MIMM 323,001,Microbial Physiology,12/16/2019,9:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-751,MIMM 324,001,Fundamental Virology,12/20/2019,9:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-752,MIMM 384,001,Molecular Microbiology Lab,12/12/2019,18:30,GYM,Studio 1,1-7,AAA,ZZZ
-753,MIMM 414,001,Advanced Immunology,12/18/2019,9:00,GYM,main gym,39-43,AAA,ZZZ
-754,MRKT 440,001,Marketing Analytics,12/6/2019,14:00,GYM,Fieldhouse,26-27,AAA,ZZZ
-755,MRKT 440,002,Marketing Analytics,12/6/2019,14:00,GYM,Fieldhouse,26-27,AAA,ZZZ
-756,MRKT 452,002,Consumer Behaviour,12/12/2019,9:00,GYM,Fieldhouse,41-42,AAA,ZZZ
-757,MRKT 455,001,Sales Management,12/12/2019,18:30,GYM,main gym,34-37,AAA,ZZZ
-758,MUAR 201,001,Basic Materials:Western Mus,12/11/2019,9:00,ADAMS,AUD,,AAA,ZZZ
-759,MUAR 201,002,Basic Materials:Western Mus,12/11/2019,9:00,LEA,132,,AAA,ZZZ
-760,MUAR 211,001,The Art of Listening,12/18/2019,9:00,LEA,132,,AAA,ZZZ
-761,MUAR 211,002,The Art of Listening,12/18/2019,9:00,ADAMS,AUD,,AAA,ZZZ
-762,MUAR 374,002,Special Topics in Music,12/10/2019,14:00,MUSIC,C412/E109,,AAA,ZZZ
-763,MUAR 392,001,Popular Music after 1945,12/6/2019,9:00,ADAMS,AUDITORIUM,,AAA,ZZZ
-764,MUHL 186,001,Western Musical Traditions,12/13/2019,14:00,ADAMS,AUDITORIUM,,AAA,ZZZ
-765,MUHL 385,001,Early Twentieth-Century Music,12/10/2019,9:00,MUSIC,E109,,AAA,ZZZ
-766,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-767,MUHL 387,001,Opera from Mozart to Puccini,12/17/2019,9:00,MUSIC,E109,,AAA,ZZZ
-768,MUIT 202,001,Woodwind Techniques,12/10/2019,14:00,MUSIC,C301,,AAA,ZZZ
-769,MUIT 202,001W,Woodwind Techniques,12/10/2019,9:00,MUSIC,C411,,AAA,ZZZ
-770,MUIT 204,001,Percussion Techniques,12/5/2019,14:00,MUSIC,C310,,AAA,ZZZ
-771,MUSP 123,001,Jazz Ear Training 1,12/9/2019,14:00,MUSIC,C411,,AAA,ZZZ
-772,MUSP 123,002,Jazz Ear Training 1,12/5/2019,9:00,MUSIC,C412,,AAA,ZZZ
-773,MUTH 150,001,Theory and Analysis 1,12/20/2019,9:00,MUSIC,C411/C412/E109,,AAA,ZZZ
-774,MUTH 250,001,Theory and Analysis 3,12/11/2019,9:00,MUSIC,A412/ C411/C412/E109/SH550 1115 & 1116,,AAA,ZZZ
-775,MUTH 529,001,Proseminar in Music Theory,12/5/2019,9:00,MUSIC,A510,,AAA,ZZZ
-776,NRSC 333,001,Pollution and Bioremediation,12/18/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-777,NSCI 200,001,Intro. to Neuroscience 1,12/18/2019,14:00,GYM,BLEACHERS,1-5,AAA,ZZZ
-778,NUR1 209,001,Pathophysiology for Nursing 1,12/5/2019,18:30,GYM,main gym,2-18,AAA,ZZZ
-779,NUR1 222,001,Strengths-Based Nurs&Prof Prac,12/9/2019,14:00,GYM,main gym,2-10,AAA,ZZZ
-780,NUR1 222,002,Strengths-Based Nurs&Prof Prac,12/9/2019,14:00,GYM,main gym,11-19,AAA,ZZZ
-781,NUR1 230,001,Supporting Hlth&Healing Capac1,12/20/2019,9:00,SH680,2020  + LAB,,AAA,ZZZ
-782,NUR1 230,002,Supporting Hlth&Healing Capac1,12/20/2019,9:00,SH680,2020 + LAB,,AAA,ZZZ
-783,NUR1 230,003,Supporting Hlth&Healing Capac1,12/20/2019,9:00,SH680,2020 + LAB,,AAA,ZZZ
-784,NUR1 230,004,Supporting Hlth&Healing Capac1,12/20/2019,9:00,SH680,2020 + LAB,,AAA,ZZZ
-785,NUR1 230,005,Supporting Hlth&Healing Capac1,12/20/2019,9:00,SH680,2020 + LAB,,AAA,ZZZ
-786,NUR1 235,001,Health & Physical Assess/Anat1,12/16/2019,9:00,,SIM CENTER,,AAA,ZZZ
-787,NUR1 235,001W,Health & Physical Assess/Anat1,12/18/2019,9:00,GYM,main gym,1-17,AAA,ZZZ
-788,NUR1 300,001,Pharmacology for Nursing 1,12/12/2019,9:00,GYM,Fieldhouse,11-18,AAA,ZZZ
-789,NUR1 312,001,Research in Nursing,12/19/2019,18:30,GYM,Fieldhouse,17-21,AAA,ZZZ
-790,NUR1 323,001,Illness Management 1,12/11/2019,9:00,GYM,Fieldhouse,25-28,AAA,ZZZ
-791,NUR1 325,002,"Acute,Chron&Pall Hlth Chall 1",12/6/2019,9:00,GYM,main gym,33-39,AAA,ZZZ
-792,NUR1 325,003,"Acute,Chron&Pall Hlth Chall 1",12/6/2019,9:00,GYM,main gym,33-39,AAA,ZZZ
-793,NUR1 325,004,"Acute,Chron&Pall Hlth Chall 1",12/6/2019,9:00,GYM,main gym,33-39,AAA,ZZZ
-794,NUR1 329,001,Skin Integrity and Wound Care,12/18/2019,9:00,GYM,Fieldhouse,1-8,AAA,ZZZ
-795,NUR1 336,001,Illness Mgmt Clin Skills Lab 2,12/17/2019,9:00,SH680,LAB,,AAA,ZZZ
-796,NUR1 336,002,Illness Mgmt Clin Skills Lab 2,12/17/2019,9:00,SH680,LAB,,AAA,ZZZ
-797,NUR1 336,003,Illness Mgmt Clin Skills Lab 2,12/17/2019,9:00,SH680,LAB,,AAA,ZZZ
-798,NUR1 336,004,Illness Mgmt Clin Skills Lab 2,12/17/2019,9:00,SH680,LAB,,AAA,ZZZ
-799,NUR1 336,005,Illness Mgmt Clin Skills Lab 2,12/17/2019,9:00,SH680,LAB,,AAA,ZZZ
-800,NUR1 338,001,Appl Hlth&Phys Assessmt/Anat1,12/13/2019,9:00,,SIM CENTER,,AAA,ZZZ
-801,NUR1 338,001W,Appl Hlth&Phys Assessmt/Anat1,12/18/2019,9:00,GYM,main gym,1-17,AAA,ZZZ
-802,NUR1 424,001,"Legal,Ethical&Prof Prac Issues",12/17/2019,9:00,GYM,Fieldhouse,1-9,AAA,ZZZ
-803,NUR2 500,001,Pathology&Pharma in Nursing 1,12/19/2019,9:00,SH680,2020,,AAA,ZZZ
-804,NUR2 517,001,Nursing Clinical Skills Lab 1,12/20/2019,9:00,SH680,2020 + LAB,,AAA,ZZZ
-805,NUR2 534,001,Health Assessment/Anatomy1,12/16/2019,9:00,,SIM CENTER,,AAA,ZZZ
-806,NUR2 534,001W,Health Assessment/Anatomy1,12/18/2019,9:00,GYM,main gym,1-17,AAA,ZZZ
-807,NUR2 623,001,Clin.Assess.&Therapeutics 1,12/11/2019,9:00,GYM,Fieldhouse,25-28,AAA,ZZZ
-808,NUTR 207,001,Nutrition and Health,12/13/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-809,NUTR 214,001,Food Fundamentals,12/17/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-810,NUTR 307,001,Metabolism and Human Nutrition,12/13/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-811,NUTR 341,001,Global Food Security,12/10/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-812,NUTR 345,001,Food Service Systems Mgmt,12/18/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-813,NUTR 446,001,Applied Human Resources,12/5/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-814,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-815,NUTR 450,001,Research Meth: Human Nutrition,12/11/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-816,NUTR 545,001,Clinical Nutrition 2,12/9/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-817,NUTR 546,001,Clinical Nutrition 3,12/16/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-818,ORGB 380,001,Cross Cultural Management,12/17/2019,18:30,GYM,main gym,28-31,AAA,ZZZ
-819,ORGB 380,002,Cross Cultural Management,12/17/2019,18:30,GYM,main gym,28-31,AAA,ZZZ
-820,PHAR 200,001,Introduction to Pharmacology 1,12/18/2019,14:00,MCMED,522,,AAA,ZZZ
-821,PHAR 300,001,Drug Action,12/10/2019,18:30,GYM,main gym,24-33,AAA,ZZZ
-822,PHAR 505,001,Structural Pharmacology,12/5/2019,14:00,GYM,Fieldhouse,38-39,AAA,ZZZ
-823,PHAR 562,001,Neuropharmacology,12/13/2019,14:00,GYM,BLEACHERS,1-4,AAA,ZZZ
-824,PHGY 209,001,Mammalian Physiology 1,12/16/2019,14:00,GYM,Fieldhouse,1-19,AAA,ZZZ
-825,PHGY 209,002,Mammalian Physiology 1,12/16/2019,14:00,GYM,Fieldhouse,20-29,AAA,ZZZ
-826,PHGY 212,001,Introductory Physiology Lab 1,12/12/2019,9:00,GYM,Fieldhouse,30-37,AAA,ZZZ
-827,PHGY 311,001,"Channels, Synapses & Hormones",12/16/2019,14:00,GYM,Fieldhouse,34-38,AAA,ZZZ
-828,PHGY 314,001,Integrative Neuroscience,12/5/2019,9:00,GYM,main gym,33-40,AAA,ZZZ
-829,PHGY 508,001,Advanced Renal Physiology,12/9/2019,9:00,MCMED,1034,,AAA,ZZZ
-830,PHGY 524,001,Chronobiology,12/11/2019,14:00,MCMED,1034,,AAA,ZZZ
-831,PHIL 200,001,Intro to Philosophy 1,12/6/2019,9:00,GYM,Fieldhouse,22-29,AAA,ZZZ
-832,PHIL 210,001,Intro to Deductive Logic 1,12/10/2019,9:00,GYM,main gym,3-21,AAA,ZZZ
-833,PHIL 230,001,Intro to Moral Philosophy 1,12/13/2019,9:00,GYM,Fieldhouse,1-8,AAA,ZZZ
-834,PHIL 240,001,Political Philosophy 1,12/17/2019,14:00,GYM,main gym,31-39,AAA,ZZZ
-835,PHIL 242,001,Intro to Feminist Theory,12/11/2019,9:00,TAKE,HOME,,AAA,ZZZ
-836,PHIL 306,001,Philosophy of Mind,12/11/2019,14:00,GYM,Studio 1,1-6,AAA,ZZZ
-837,PHIL 343,001,Biomedical Ethics,12/12/2019,14:00,GYM,main gym,41-44,AAA,ZZZ
-838,PHIL 360,001,17th Century Philosophy,12/9/2019,9:00,TAKE,HOME,,AAA,ZZZ
-839,PHIL 367,001,19th Century Philosophy,12/6/2019,14:00,ARTS,260,,AAA,ZZZ
-840,PHIL 375,001,Existentialism,12/19/2019,9:00,TAKE,HOME,,AAA,ZZZ
-841,PHIL 475,001,Topics in Contem European Phil,12/16/2019,9:00,LEA,927,,AAA,ZZZ
-842,PHYS 101,001,Intro Physics - Mechanics,12/13/2019,9:00,GYM,Fieldhouse,21-40,AAA,ZZZ
-843,PHYS 131,001,Mechanics and Waves,12/17/2019,9:00,GYM,main gym,3-28,AAA,ZZZ
-844,PHYS 180,001,"Space, Time & Matter",12/12/2019,9:00,GYM,main gym,5-14,AAA,ZZZ
-845,PHYS 182,001,Our Evolving Universe,12/6/2019,14:00,MAASS,217,,AAA,ZZZ
-846,PHYS 214,001,Introductory Astrophysics,12/9/2019,9:00,MAASS,217,,AAA,ZZZ
-847,PHYS 224,001,Physics of Music,12/19/2019,18:30,GYM,BLEACHERS,1-5,AAA,ZZZ
-848,PHYS 230,001,Dynamics of Simple Systems,12/17/2019,18:30,GYM,Fieldhouse,39-42,AAA,ZZZ
-849,PHYS 242,001,Electricity & Magnetism,12/16/2019,14:00,GYM,BLEACHERS,5,AAA,ZZZ
-850,PHYS 251,001,Honours Classical Mechanics 1,12/6/2019,14:00,GYM,main gym,36-40,AAA,ZZZ
-851,PHYS 253,001,Thermal Physics,12/9/2019,18:30,GYM,Fieldhouse,37-38,AAA,ZZZ
-852,PHYS 260,001,Modern Physics and Relativity,12/20/2019,9:00,GYM,main gym,26-31,AAA,ZZZ
-853,PHYS 328,001,Electronics,12/19/2019,18:30,GYM,Fieldhouse,44-45,AAA,ZZZ
-854,PHYS 340,001,Majors Electricity & Magnetism,12/12/2019,18:30,GYM,Fieldhouse,45-46,AAA,ZZZ
-855,PHYS 350,001,Hons Electricity & Magnetism,12/12/2019,9:00,GYM,Fieldhouse,26-27,AAA,ZZZ
-856,PHYS 352,001,Honours Electromagnetic Waves,12/6/2019,14:00,MAASS,10,,AAA,ZZZ
-857,PHYS 357,001,Honours Quantum Physics 1,12/17/2019,18:30,GYM,Fieldhouse,20-21,AAA,ZZZ
-858,PHYS 404,001,Climate Physics,12/18/2019,9:00,BURN,719A,,AAA,ZZZ
-859,PHYS 434,001,Optics,12/12/2019,9:00,GYM,main gym,34-36,AAA,ZZZ
-860,PHYS 446,001,Majors Quantum Physics,12/5/2019,9:00,RPHYS,112,,AAA,ZZZ
-861,PHYS 512,001,Comp. Phys. with Applications,12/13/2019,9:00,TAKE,HOME,,AAA,ZZZ
-862,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-863,PHYS 521,001,Astrophysics,12/20/2019,9:00,RPHYS,103,,AAA,ZZZ
-864,PHYS 551,001,Quantum Theory,12/9/2019,14:00,TAKE,HOME,,AAA,ZZZ
-865,PHYS 557,001,Nuclear Physics,12/19/2019,9:00,RPHYS,103,,AAA,ZZZ
-866,PHYS 558,001,Solid State Physics,12/16/2019,14:00,GYM,BLEACHERS,3-4,AAA,ZZZ
-867,PHYS 559,001,Advanced Statistical Mechanics,12/11/2019,9:00,RPHYS,112,,AAA,ZZZ
-868,PLNT 300,001,Cropping Systems,12/6/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-869,PLNT 302,001,Forage Crops and Pastures,12/12/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-870,PLNT 358,001,Flowering Plant Diversity,12/13/2019,14:M00a,donald Ste,aMrtS B-023/032,,AAA,ZZZ
-871,PLNT 460,001,Plant Ecology,12/16/2019,14:00,CENTEN,Ballroom,,AAA,ZZZ
-872,POLI 200,001,Intro to Political Science,12/6/2019,9:00,GYM,Fieldhouse,8-21,AAA,ZZZ
-873,POLI 221,001,Government of Canada,12/20/2019,9:00,GYM,Fieldhouse,1-8,AAA,ZZZ
-874,POLI 226,001,La vie politique québécoise,12/5/2019,14:00,GYM,main gym,37-40,AAA,ZZZ
-875,POLI 244,001,Intl Politics: State Behaviour,12/10/2019,9:00,GYM,Fieldhouse,10-29,AAA,ZZZ
-876,POLI 318,001,Comparative Local Government,12/5/2019,18:30,GYM,main gym,27-31,AAA,ZZZ
-877,POLI 329,001,Russian and Soviet Politics,12/17/2019,9:00,GYM,Fieldhouse,42-45,AAA,ZZZ
-878,POLI 339,001,Comp Developed: Topics 1,12/6/2019,9:00,GYM,Fieldhouse,33-34,AAA,ZZZ
-879,POLI 340,001,Developing Areas/Middle East,12/12/2019,18:30,GYM,Fieldhouse,24-32,AAA,ZZZ
-880,POLI 346,001,American Foreign Policy,12/9/2019,9:00,GYM,main gym,24-33,AAA,ZZZ
-881,POLI 347,001,"Arab-Israel Confl,Crisis,Peace",12/17/2019,18:30,GYM,main gym,32-41,AAA,ZZZ
-882,POLI 359,001,Topics in Intl Politics 1,12/19/2019,18:30,GYM,Fieldhouse,32-34,AAA,ZZZ
-883,POLI 360,001,Security: War and Peace,12/16/2019,18:30,GYM,main gym,30-38,AAA,ZZZ
-884,POLI 364,001,Radical Political Thought,12/11/2019,14:00,TAKE,HOME,,AAA,ZZZ
-885,POLI 423,001,Politics of Ethno-Nationalism,12/20/2019,9:00,GYM,Fieldhouse,42-43,AAA,ZZZ
-886,POLI 426,001,Partis pol et comp élect au Qc,12/13/2019,14:00,ARTS,260,,AAA,ZZZ
-887,POLI 433,001,Hist of Pol/Soc Theory 3,12/18/2019,9:00,ARTS,260,,AAA,ZZZ
-888,POLI 435,001,Identity and Inequality,12/10/2019,9:00,GYM,Fieldhouse,39-40,AAA,ZZZ
-889,POLI 444,003,Topics in Intl Politics 2,12/12/2019,14:00,GYM,main gym,20-22,AAA,ZZZ
-890,POLI 445,001,IPE: Monetary Relations,12/11/2019,9:00,GYM,Fieldhouse,29-31,AAA,ZZZ
-891,POLI 451,001,The European Union,12/19/2019,14:00,GYM,Studio 2,1-7,AAA,ZZZ
-892,PSYC 100,001,Introduction to Psychology,12/17/2019,9:00,GYM,Fieldhouse,10-31,AAA,ZZZ
-893,PSYC 204,001,Intro to Psychological Stats,12/19/2019,18:30,GYM,Fieldhouse,1-16,AAA,ZZZ
-894,PSYC 211,001,Intro Behavioural Neuroscience,12/5/2019,9:00,GYM,Fieldhouse,14-35,AAA,ZZZ
-895,PSYC 215,001,Social Psychology,12/13/2019,14:00,GYM,Fieldhouse,15-36,AAA,ZZZ
-896,PSYC 301,001,Animal Learning and Theory,12/13/2019,9:00,GYM,main gym,25-31,AAA,ZZZ
-897,PSYC 304,001,Child Development,12/20/2019,9:00,GYM,Fieldhouse,19-32,AAA,ZZZ
-898,PSYC 305,001,Statistics for Exper Design,12/10/2019,18:30,GYM,Fieldhouse,33-44,AAA,ZZZ
-899,PSYC 310,001,Intelligence,12/12/2019,9:00,GYM,main gym,25-33,AAA,ZZZ
-900,PSYC 311,001,Human Cognition and the Brain,12/6/2019,9:00,GYM,main gym,3-15,AAA,ZZZ
-901,PSYC 315,001,Computational Psychology,12/6/2019,14:00,GYM,main gym,41-43,AAA,ZZZ
-902,PSYC 328,001,Health Psychology,12/13/2019,14:00,GYM,main gym,1-23,AAA,ZZZ
-903,PSYC 332,001,Intro to Personality,12/5/2019,14:00,GYM,Fieldhouse,9-22,AAA,ZZZ
-904,PSYC 337,001,Intro to Psychopathology,12/19/2019,9:00,GYM,main gym,3-21,AAA,ZZZ
-905,PSYC 342,001,Hormones & Behaviour,12/18/2019,9:00,GYM,Fieldhouse,21-26,AAA,ZZZ
-906,PSYC 403,001,Modern Psych in Hist Persp,12/10/2019,9:00,GYM,Fieldhouse,1-6,AAA,ZZZ
-907,PSYC 406,001,Psychological Tests,12/12/2019,14:00,GYM,Fieldhouse,21-32,AAA,ZZZ
-908,PSYC 436,001,Human Sexuality & Its Problems,12/9/2019,9:00,GYM,Fieldhouse,1-6,AAA,ZZZ
-909,PSYC 470,001,Memory and Brain,12/18/2019,14:00,TAKE,HOME,,AAA,ZZZ
-910,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,BUILDING,ROOM,ROW,FROM,TO
-911,PSYC 474,001,Interpersonal Relationships,12/16/2019,14:00,GYM,Fieldhouse,30-33,AAA,ZZZ
-912,PSYC 475,001,Neuroscience of Social Psych,12/5/2019,18:30,GYM,main gym,32-34,AAA,ZZZ
-913,PSYC 530,001,Applied Topics in Deafness,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-914,PSYC 538,001,Categoriz Communic & Consciou,12/19/2019,14:00,TAKE,HOME,,AAA,ZZZ
-915,QCST 200,001,Intro to the Study of Quebec,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-916,RELG 210,001,Jesus of Nazareth,12/11/2019,14:00,BIRKS,205,,AAA,ZZZ
-917,RELG 257D1,001,Introductory Sanskrit,12/12/2019,14:00,BIRKS,105,,AAA,ZZZ
-918,RELG 257D1,761,Introductory Sanskrit,12/12/2019,14:00,BIRKS,105,,AAA,ZZZ
-919,RELG 373,001,Christian Ethics of Love,12/16/2019,9:00,TAKE,HOME,,AAA,ZZZ
-920,RELG 381,001,Adv. New Testament Greek,12/20/2019,9:00,BIRKS,105,,AAA,ZZZ
-921,RUSS 217,001,Russia's Eternal Questions,12/16/2019,14:00,TAKE,HOME,,AAA,ZZZ
-922,RUSS 337,001,Vladimir Nabokov,12/10/2019,14:00,TAKE,HOME,,AAA,ZZZ
-923,SEAD 550,001,Dec-Making for Sust: Eng & Des,12/5/2019,9:00,ENGTR,1080,,AAA,ZZZ
-924,SOCI 210,001,Sociological Perspectives,12/9/2019,18:30,GYM,main gym,3-12,AAA,ZZZ
-925,SOCI 213,001,Deviance,12/11/2019,9:00,GYM,Fieldhouse,34-37,AAA,ZZZ
-926,SOCI 234,001,Population & Society,12/16/2019,18:30,GYM,Fieldhouse,36-39,AAA,ZZZ
-927,SOCI 235,001,Technology and Society,12/20/2019,9:00,GYM,Studio 1,1-6,AAA,MOR
-928,SOCI 235,001,Technology and Society,12/20/2019,9:00,GYM,Studio 2,1-6,MOU,ZZZ
-929,SOCI 247,001,Family & Modern Society,12/16/2019,9:00,GYM,main gym,24-30,AAA,ZZZ
-930,SOCI 250,001,Social Problems,12/13/2019,9:00,GYM,main gym,15-24,AAA,ZZZ
-931,SOCI 304,001,Sociology of the Welfare State,12/19/2019,14:00,GYM,Fieldhouse,23-26,AAA,ZZZ
-932,SOCI 330,001,Sociological Theory,12/17/2019,18:30,GYM,Fieldhouse,22-28,AAA,ZZZ
-933,SOCI 420,001,Organizations,12/5/2019,9:00,GYM,Studio 2,1-6,AAA,ZZZ
-934,SOIL 315,001,Soil Nutrient Management,12/19/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-935,SWRK 220,001,History & Philosophy of SW,12/11/2019,9:00,GYM,Fieldhouse,32-33,AAA,ZZZ
-936,SWRK 221,001,Public Soc. Services in Canada,12/9/2019,14:00,GYM,main gym,20-24,AAA,ZZZ
-937,SWRK 221,002,Public Soc. Services in Canada,12/9/2019,14:00,GYM,main gym,20-24,AAA,ZZZ
-938,WILD 302,001,Fish Ecology,12/10/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-939,WILD 307,001,Natural History of Vertebrates,12/11/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-940,WILD 401,001,Fisheries&Wildlife Management,12/5/2019,9:00,CENTEN,Ballroom,,AAA,ZZZ
-941,WILD 420,001,Ornithology,12/9/2019,14:00,TAKE,HOME,,AAA,ZZZ
+,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+0,ACCT 351,001,Intermediate Financial Acct 1,29-Apr,14:00,
+1,ACCT 352,001,Intermediate Financial Acct 2,23-Apr,14:00,
+2,ACCT 352,002,Intermediate Financial Acct 2,23-Apr,14:00,
+3,ACCT 354,001,Financial Statement Analysis,27-Apr,14:00,
+4,ACCT 354,051,Financial Statement Analysis,27-Apr,14:00,
+5,ACCT 361,001,Management Accounting,21-Apr,9:00,
+6,ACCT 362,001,Cost Accounting,27-Apr,18:30,
+7,ACCT 362,003,Cost Accounting,27-Apr,18:30,
+8,ACCT 385,001,Principles of Taxation,22-Apr,14:00,
+9,ACCT 385,002,Principles of Taxation,22-Apr,14:00,
+10,ACCT 453,001,Advanced Financial Accounting,30-Apr,9:00,
+11,ACCT 463,001,Management Control,21-Apr,14:00,
+12,ACCT 475,001,Principles of Auditing,24-Apr,9:00,
+13,ACCT 475,002,Principles of Auditing,24-Apr,9:00,
+14,ACCT 486,001,Business Taxation 2,17-Apr,14:00,
+15,AEBI 122,001,Cell Biology,17-Apr,9:00,MAC
+16,AEBI 211,001,Organisms 2,21-Apr,9:00,MAC
+17,AEBI 212,001,Evolution and Phylogeny,23-Apr,14:00,MAC
+18,AECH 111,001,General Chemistry 2,20-Apr,9:00,MAC
+19,AEHM 205,001,Science Literacy,17-Apr,14:00,MAC
+20,AEMA 102,001,Calculus 2,24-Apr,14:00,MAC
+21,AEMA 305,001,Differential Equations,27-Apr,9:00,MAC
+22,AEMA 310,001,Statistical Methods 1,29-Apr,14:00,MAC
+23,AEPH 114,001,Introductory Physics 2,30-Apr,14:00,MAC
+24,AEPH 115,001,Physics 2,30-Apr,14:00,MAC
+25,AGEC 201,001,Principles of Macroeconomics,28-Apr,14:00,MAC
+26,AGEC 231,001,Econ Systems of Agriculture,17-Apr,9:00,MAC
+27,AGEC 442,001,Econ of Int'l Agric Dvlpmnt,21-Apr,23:30,MAC HOME
+28,AGEC 450,001,Agribusiness Management,30-Apr,9:00,MAC
+29,AGEC 642,001,Econ of Agr Development,21-Apr,23:30,MAC HOME
+30,AGRI 330,001,Agricultural Legislation,23-Apr,23:30,MAC HOME
+31,AGRI 340,001,Princ of Ecological Agricult,28-Apr,14:00,MAC
+32,AGRI 411,001,"Global Issues on Dev, Food&Agr",30-Apr,14:00,MAC
+33,ANAT 212,001,Molec Mechanisms of Cell Funct,27-Apr,14:00,
+34,ANAT 262,001,Intro Molecular &Cell Biol,17-Apr,14:00,
+35,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+36,ANAT 314,001,Human Musculoskeletal Anatomy,30-Apr,9:00,
+37,ANAT 314,001L,Human Musculoskeletal Anatomy,22-Apr,14:00,LAB
+38,ANAT 316,001,Clinical Human Visceral Anat,30-Apr,18:30,
+39,ANAT 316,001L,Clinical Human Visceral Anat,27-Apr,14:00,LAB
+40,ANAT 316,999,Clinical Human Visceral Anat,30-Apr,18:30,
+41,ANAT 322,001,Neuroendocrinology,22-Apr,18:30,
+42,ANAT 416,001,"Dev., Disease and Regeneration",23-Apr,18:30,
+43,ANAT 458,001,Membranes & Cellular Signaling,30-Apr,9:00,
+44,ANAT 542,001,Transmission EM,29-Apr,9:00,DEPT
+45,ANSC 234,001,Biochemistry 2,27-Apr,14:00,MAC
+46,ANSC 251,001,Comparative Anatomy,29-Apr,14:00,MAC LAB
+47,ANSC 301,001,Principles of Animal Breeding,29-Apr,9:00,MAC
+48,ANSC 350,001,Food-Borne Pathogens,22-Apr,14:00,MAC
+49,ANSC 400,001,Eukaryotic Cells and Viruses,30-Apr,9:00,MAC
+50,ANSC 424,001,Metabolic Endocrinology,24-Apr,14:00,MAC
+51,ANSC 451,001,Dairy and Beef Prod Management,20-Apr,14:00,MAC
+52,ANSC 560,001,Biology of Lactation,17-Apr,14:00,MAC
+53,ANSC 600,001,Adv Eukaryotic Cells & Viruses,30-Apr,9:00,MAC
+54,ANTH 204,001,Anthropology of Meaning,21-Apr,14:00,
+55,ANTH 207,001,Ethnography Through Film,24-Apr,9:00,HOME
+56,ANTH 209,001,Anthropology of Religion,22-Apr,9:00,
+57,ANTH 212,001,Anthropology of Development,29-Apr,18:30,
+58,ANTH 302,001,New Horizons in Medical Anth.,17-Apr,9:00,HOME
+59,ANTH 330,001,Traditional Whaling Societies,22-Apr,18:30,
+60,ANTH 355,001,Theories of Culture & Society,17-Apr,9:00,HOME
+61,ANTH 359,001,Hist of Archaeological Theory,23-Apr,14:00,HOME
+62,ANTH 381,001,Special Topic 2,20-Apr,9:00,HOME
+63,ARCH 202,001,Arch Graphics&Elements of Des,17-Apr,9:00,All Day Oral
+64,ARCH 202,003,Arch Graphics&Elements of Des,17-Apr,9:00,All Day Oral
+65,ARCH 251,001,Architectural History 2,30-Apr,18:30,DEPT
+66,ARCH 251,004,Architectural History 2,30-Apr,18:30,DEPT
+67,ARCH 304,001,Design and Construction 2,20-Apr,9:00,All Day Oral
+68,ARCH 304,002,Design and Construction 2,20-Apr,9:00,All Day Oral
+69,ARCH 355,001,Architectural History 4,28-Apr,18:30,DEPT
+70,ARCH 406,001,Design and Construction 4,27/28-Apr,9:00,All Day Oral
+71,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+72,ARCH 406,002,Design and Construction 4,27/28-Apr,9:00,All Day Oral
+73,ARCH 406,003,Design and Construction 4,27/28-Apr,9:00,All Day Oral
+74,ARCH 406,007,Design and Construction 4,27/28-Apr,9:00,All Day Oral
+75,ARCH 673,001,Architectural Design 2,22-Apr,9:00,All Day Oral
+76,ARCH 673,003,Architectural Design 2,22/23-Apr,9:00,All Day Oral
+77,ARCH 673,005,Architectural Design 2,27/28-Apr,9:00,All Day Oral
+78,ARTH 207,001,Intro Early Mod. Art 1400-1700,20-Apr,18:30,HOME
+79,ARTH 325,001,Vis Culture Renaissance Venice,22-Apr,14:00,DEPT
+80,ARTH 354,001,Selected Topics Art History 2,28-Apr,14:00,DEPT
+81,ATOC 100,001,Extr-Weath&Climate-Chg Physics,27-Apr,9:00,DEPT
+82,ATOC 181,001,Intro to Atmospheric Science,20-Apr,18:30,
+83,ATOC 182,001,Intro to Oceanic Sciences,21-Apr,18:30,
+84,ATOC 184,001,Science of Storms,29-Apr,9:00,
+85,ATOC 215,001,"Oceans, Weather and Climate",24-Apr,9:00,
+86,ATOC 219,001,Intro to Atmospheric Chemistry,21-Apr,18:30,
+87,ATOC 357,001,Atmospheric & Oceanic Sci Lab,23-Apr,9:00,DEPT
+88,ATOC 513,001,Waves & Stability,20-Apr,18:30,DEPT
+89,ATOC 521,001,Cloud Physics,30-Apr,18:30,DEPT
+90,BIEN 300,001,Thermodynamics in Bioengin,20-Apr,14:00,DEPT
+91,BIEN 330,001,Tissue Eng & Regenerative Med,21-Apr,14:00,DEPT
+92,BIEN 340,001,Transp. Phenom. in Biol. Sys 2,22-Apr,14:00,HOME
+93,BIEN 360,001,Physical Chemistry in Bioengin,28-Apr,18:30,
+94,BIOC 212,001,Molec Mechanisms of Cell Funct,27-Apr,14:00,
+95,BIOC 220,001,Lab Meth in Biochem&Mol Biol 1,30-Apr,18:30,
+96,BIOC 312,001,Biochemistry of Macromolecules,22-Apr,9:00,
+97,BIOC 404,001,Biophysical Methods in Biochem,27-Apr,18:30,
+98,BIOC 458,001,Membranes & Cellular Signaling,30-Apr,9:00,
+99,BIOC 470,001,Lipids&Lipoproteins in Disease,22-Apr,18:30,
+100,BIOC 503,001,Immunochemistry,17-Apr,9:00,DEPT
+101,BIOL 112,001,Cell and Molecular Biology,22-Apr,18:30,
+102,BIOL 201,001,Cell Biology & Metabolism,22-Apr,14:00,
+103,BIOL 202,001,Basic Genetics,23-Apr,14:00,
+104,BIOL 205,001,Biology of Organisms,29-Apr,14:00,
+105,BIOL 303,001,Developmental Biology,29-Apr,18:30,
+106,BIOL 305,001,Animal Diversity,23-Apr,18:30,
+107,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+108,BIOL 307,001,Behavioural Ecology,28-Apr,18:30,
+109,BIOL 310,001,Biodiversity and Ecosystems,20-Apr,9:00,
+110,BIOL 313,001,Eukaryotic Cell Biology,17-Apr,9:00,
+111,BIOL 319,001,Introduction to Biophysics,24-Apr,14:00,
+112,BIOL 320,001,Evolution of Brain & Behaviour,24-Apr,14:00,DEPT
+113,BIOL 352,001,Dinosaur Biology,27-Apr,18:30,DEPT
+114,BIOL 418,001,Freshwater Invertebrate Ecol,20-Apr,14:00,DEPT
+115,BIOL 441,001,Biological Oceanography,27-Apr,18:30,DEPT
+116,BIOL 568,001,Topics on the Human Genome,28-Apr,18:30,DEPT
+117,BREE 103,001,Linear Algebra,21-Apr,14:00,MAC
+118,BREE 217,001,Hydrology and Water Resources,17-Apr,14:00,MAC
+119,BREE 301,001,Biothermodynamics,22-Apr,14:00,MAC
+120,BREE 314,001,Agri-Food Buildings,24-Apr,9:00,MAC
+121,BREE 341,001,Mechanics of Materials,20-Apr,14:00,MAC
+122,BREE 415,001,Design of Mach.&Struct.Elems,24-Apr,9:00,MAC
+123,BREE 501,001,Simulation and Modelling,30-Apr,14:00,MAC LAB
+124,BREE 518,001,Ecological Engineering,29-Apr,14:00,MAC
+125,BUSA 364,051,Business Law 1,28-Apr,18:30,
+126,BUSA 391,071,International Business Law,27-Apr,14:00,
+127,CANS 405,001,Canadian Studies Seminar 5,22-Apr,18:30,HOME
+128,CANS 406,001,Canadian Studies Seminar 6,27-Apr,9:00,
+129,CATH 340,001,Catholicism and Public Policy,20-Apr,14:00,HOME
+130,CHEE 204,001,Chem Engineering Principles 2,20-Apr,14:00,
+131,CHEE 220,001,Chemical Engrg Thermodynamics,28-Apr,9:00,
+132,CHEE 310,001,Physical Chemistry for Eng.,21-Apr,14:00,
+133,CHEE 315,001,Heat and Mass Transfer,22-Apr,18:30,
+134,CHEE 351,001,Separation Processes,27-Apr,18:30,
+135,CHEE 440,001,Process Modelling,28-Apr,9:00,
+136,CHEE 455,001,Process Control,23-Apr,14:00,
+137,CHEE 456,001,Design Project 1,20-Apr,9:00,ORAL
+138,CHEE 457,001,Design Project 2,21-Apr,9:00,ORAL
+139,CHEE 521,001,Nanomat & the Aquatic Environ,24-Apr,14:00,DEPT
+140,CHEE 563,001,Biofluids&Cardiovascular Mech.,27-Apr,14:00,
+141,CHEE 582,001,Polymer Science & Engineering,30-Apr,18:30,
+142,CHEE 591,001,Environmental Bioremediation,17-Apr,9:00,
+143,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+144,CHEM 120,001,General Chemistry 2,17-Apr,14:00,
+145,CHEM 120,002,General Chemistry 2,17-Apr,14:00,
+146,CHEM 180,001,World of Chem: Environment,20-Apr,14:00,
+147,CHEM 181,761,World of Chem: Food,17-Apr,18:30,See CS
+148,CHEM 204,001,Physical Chem./Biol.Sci. 1,27-Apr,18:30,
+149,CHEM 211,001,Organic Chemistry 1 Lectures,29-Apr,9:00,
+150,CHEM 212,001,Intro Organic Chemistry 1,29-Apr,9:00,
+151,CHEM 214,001,Physical Chem./Biol. Sci. 2,21-Apr,9:00,
+152,CHEM 219,001,Intro to Atmospheric Chemistry,21-Apr,18:30,
+153,CHEM 222,001,Intro Organic Chemistry 2,24-Apr,9:00,
+154,CHEM 233,001,Topics in Physical Chemistry,28-Apr,18:30,
+155,CHEM 234,001,Topics in Organic Chemistry,24-Apr,9:00,
+156,CHEM 273,001,Intro Phys Chem2:Kinetics&Meth,30-Apr,18:30,DEPT
+157,CHEM 281,001,Inorganic Chemistry 1,27-Apr,14:00,
+158,CHEM 332,001,Biological Chemistry,17-Apr,14:00,DEPT
+159,CHEM 334,001,Advanced Materials,28-Apr,9:00,
+160,CHEM 355,001,Applications of Quantum Chem.,22-Apr,14:00,
+161,CHEM 365,001,Statistical Thermodynamics,30-Apr,18:30,
+162,CHEM 377,001,Instrumental Analysis 2,24-Apr,14:00,
+163,CHEM 482,001,Organic Chem:Natural Products,29-Apr,18:30,DEPT
+164,CHEM 502,001,Advanced Bio-Organic Chemistry,23-Apr,14:00,
+165,CHEM 533,001,Small Molecule Crystallography,29-Apr,18:30,DEPT
+166,CHEM 577,001,Electrochemistry,22-Apr,14:00,HOME
+167,CIVE 202,001,Construction Materials,28-Apr,14:00,
+168,CIVE 205,001,Statics,21-Apr,9:00,
+169,CIVE 206,001,Dynamics,24-Apr,9:00,
+170,CIVE 207,001,Solid Mechanics,30-Apr,14:00,
+171,CIVE 225,001,Environmental Engineering,20-Apr,14:00,
+172,CIVE 284,001,Structural Engineering Basics,27-Apr,18:30,
+173,CIVE 302,001,Probabilistic Systems,17-Apr,9:00,
+174,CIVE 318,001,Structural Engineering 2,28-Apr,18:30,
+175,CIVE 319,001,Transportation Engineering,22-Apr,9:00,
+176,CIVE 324,001,Sustainable Project Management,30-Apr,18:30,
+177,CIVE 327,001,Fluid Mechanics & Hydraulics,23-Apr,18:30,
+178,CIVE 388,001,Foundations & Concrete Design,29-Apr,18:30,
+179,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+180,CIVE 416,001,Geotechnical Engineering,27-Apr,14:00,
+181,CIVE 421,001,Municipal Systems,23-Apr,14:00,DEPT
+182,CIVE 451,001,Geoenvironmental Engineering,24-Apr,14:00,DEPT
+183,CIVE 463,001,Design of Concrete Structures,21-Apr,9:00,
+184,CIVE 512,001,Advanced Civil Engrg Materials,22-Apr,14:00,
+185,CIVE 520,001,Groundwater Hydrology,23-Apr,14:00,DEPT
+186,CIVE 540,001,Urban Transportation Planning,24-Apr,14:00,
+187,CIVE 550,001,Water Resources Management,20-Apr,18:30,DEPT
+188,CIVE 555,001,Environmental Data Analysis,27-Apr,9:00,DEPT
+189,CLAS 212,001,Introductory Latin 2,24-Apr,14:00,DEPT
+190,CLAS 212,002,Introductory Latin 2,24-Apr,14:00,DEPT
+191,CLAS 212,003,Introductory Latin 2,24-Apr,14:00,DEPT
+192,CLAS 240,001,Intro to Classical Archaeology,20-Apr,9:00,
+193,CLAS 302,001,Roman Literature and Society,20-Apr,14:00,HOME
+194,CLAS 312,001,Intermediate Latin 2,24-Apr,14:00,DEPT
+195,CLAS 322,001,Intermediate Ancient Greek 2,30-Apr,18:30,DEPT
+196,CLAS 422,001,Advanced Ancient Greek: Themes,28-Apr,14:00,DEPT
+197,COMP 189,001,Computers and Society,20-Apr,18:30,DEPT
+198,COMP 202,001,Foundations of Programming,23-Apr,18:30,
+199,COMP 202,002,Foundations of Programming,23-Apr,18:30,
+200,COMP 204,001,Comp. Programming for Life Sci,29-Apr,14:00,
+201,COMP 206,001,Intro to Software Systems,29-Apr,14:00,
+202,COMP 206,002,Intro to Software Systems,29-Apr,14:00,
+203,COMP 208,001,Computer Programming for PS&E,17-Apr,9:00,
+204,COMP 208,002,Computer Programming for PS&E,17-Apr,9:00,
+205,COMP 250,001,Intro to Computer Science,23-Apr,18:30,
+206,COMP 250,002,Intro to Computer Science,23-Apr,18:30,
+207,COMP 251,001,Algorithms and Data Structures,20-Apr,9:00,
+208,COMP 252,001,Honours Algorithms&Data Struct,30-Apr,9:00,DEPT
+209,COMP 273,001,Intro to Computer Systems,24-Apr,14:00,
+210,COMP 273,002,Intro to Computer Systems,24-Apr,14:00,
+211,COMP 302,001,Programming Lang & Paradigms,22-Apr,18:30,
+212,COMP 303,001,Software Design,27-Apr,9:00,
+213,COMP 307,001,Principles of Web Development,22-Apr,14:00,
+214,COMP 310,001,Operating Systems,20-Apr,18:30,
+215,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+216,COMP 360,001,Algorithm Design,23-Apr,18:30,
+217,COMP 362,001,Honours Algorithm Design,28-Apr,18:30,
+218,COMP 409,001,Concurrent Programming,29-Apr,14:00,
+219,COMP 421,001,Database Systems,17-Apr,14:00,
+220,COMP 424,001,Artificial Intelligence,30-Apr,14:00,
+221,COMP 520,001,Compiler Design,21-Apr,14:00,
+222,COMP 535,001,Computer Networks,24-Apr,14:00,DEPT
+223,COMP 546,001,Computational Perception,22-Apr,18:30,
+224,COMP 547,001,Cryptography & Data Security,29-Apr,14:00,
+225,COMP 559,001,Fund. Computer Animation,22-Apr,9:00,
+226,COMS 200,001,History of Communication,30-Apr,14:00,
+227,COMS 230,001,Communication and Democracy,24-Apr,18:30,HOME
+228,COMS 354,001,Media Studies of Crime,28-Apr,14:00,DEPT
+229,COMS 501,001,Special Topics in Com St 2,17-Apr,9:00,HOME
+230,EAST 220D2,001,First Level Korean,30-Apr,9:00,
+231,EAST 220D2,002,First Level Korean,30-Apr,9:00,
+232,EAST 230D2,001,First Level Chinese,30-Apr,14:00,
+233,EAST 230D2,002,First Level Chinese,30-Apr,14:00,
+234,EAST 230D2,003,First Level Chinese,30-Apr,14:00,
+235,EAST 240D2,001,First Level Japanese,30-Apr,18:30,
+236,EAST 240D2,002,First Level Japanese,30-Apr,18:30,
+237,EAST 240D2,003,First Level Japanese,30-Apr,18:30,
+238,EAST 242,001,Japanese Writing Beginners 2,22-Apr,14:00,DEPT
+239,EAST 320D2,001,Second Level Korean,22-Apr,9:00,
+240,EAST 330D2,001,Second Level Chinese,28-Apr,18:30,DEPT
+241,EAST 330D2,002,Second Level Chinese,28-Apr,18:30,DEPT
+242,EAST 340D2,001,Second Level Japanese,22-Apr,9:00,
+243,EAST 340D2,002,Second Level Japanese,22-Apr,9:00,
+244,EAST 342,001,Japanese Writing Intermed. 2,30-Apr,18:30,DEPT
+245,EAST 430D2,001,Third Level Chinese,23-Apr,18:30,DEPT
+246,EAST 440D2,001,Third Level Japanese,30-Apr,18:30,DEPT
+247,EAST 540D2,001,Fourth Level Japanese,28-Apr,9:00,DEPT
+248,ECON 208,001,Microeconomic Analysis&Applic,28-Apr,18:30,
+249,ECON 209,001,Macroeconomic Analysis&Applic,23-Apr,14:00,
+250,ECON 209,002,Macroeconomic Analysis&Applic,23-Apr,14:00,
+251,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+252,ECON 209,003,Macroeconomic Analysis&Applic,23-Apr,14:00,
+253,ECON 219,001,Current Econ Problems:Topics,30-Apr,14:00,
+254,ECON 227D2,001,Economic Statistics,20-Apr,18:30,
+255,ECON 227D2,002,Economic Statistics,20-Apr,18:30,
+256,ECON 227D2,003,Economic Statistics,20-Apr,18:30,
+257,ECON 227D2,005,Economic Statistics,20-Apr,18:30,
+258,ECON 230D2,001,Microeconomic Theory,28-Apr,9:00,
+259,ECON 230D2,002,Microeconomic Theory,28-Apr,9:00,
+260,ECON 250D2,001,Intro to Econ Theory: Honours,29-Apr,9:00,
+261,ECON 257D2,001,Economic Statistics-Honours,22-Apr,18:30,
+262,ECON 295,001,Macroeconomics Policy,23-Apr,9:00,
+263,ECON 295,002,Macroeconomics Policy,23-Apr,9:00,
+264,ECON 295,003,Macroeconomics Policy,23-Apr,9:00,
+265,ECON 304,001,Financial Instruments & Inst.,30-Apr,9:00,
+266,ECON 313,001,Economic Development 1,21-Apr,9:00,
+267,ECON 314,001,Economic Development 2,24-Apr,14:00,
+268,ECON 314,002,Economic Development 2,24-Apr,14:00,
+269,ECON 330D2,001,Macroeconomic Theory,23-Apr,9:00,
+270,ECON 330D2,002,Macroeconomic Theory,23-Apr,9:00,
+271,ECON 334,001,History of Economic Doctrines,21-Apr,18:30,
+272,ECON 338,001,Intro Econometrics 2,17-Apr,14:00,
+273,ECON 348,001,Urban Economics,20-Apr,9:00,
+274,ECON 352D2,001,Macroeconomics - Honours,23-Apr,9:00,
+275,ECON 409,001,Public Sector Economics 2,17-Apr,9:00,
+276,ECON 416,001,Topics in Econ Development 2,21-Apr,9:00,
+277,ECON 424,001,International Payments,24-Apr,9:00,
+278,ECON 447,001,Economics of Info&Uncertainty,27-Apr,9:00,
+279,ECON 450,001,Adv Economic Theory 1-Honours,24-Apr,14:00,
+280,ECON 454,001,Open Economy Macro - Honours,27-Apr,9:00,
+281,ECON 469,001,Econometrics 2 - Honours,29-Apr,14:00,
+282,ECON 473,001,Income Distribution,21-Apr,14:00,
+283,ECSE 200,001,Electric Circuits 1,17-Apr,9:00,
+284,ECSE 202,001,Intro to Software Development,28-Apr,9:00,
+285,ECSE 205,001,Prob and Stats for Engineers,29-Apr,9:00,
+286,ECSE 206,001,Intro to Signals and Systems,30-Apr,14:00,
+287,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+288,ECSE 210,001,Electric Circuits 2,17-Apr,9:00,
+289,ECSE 222,001,Digital Logic,28-Apr,14:00,
+290,ECSE 223,001,Model-Based Programming,21-Apr,9:00,
+291,ECSE 251,001,Electric and Magnetic Fields,21-Apr,14:00,
+292,ECSE 307,001,Linear Systems and Control,30-Apr,9:00,
+293,ECSE 308,001,Intro to Commun Sys & Networks,23-Apr,14:00,
+294,ECSE 309,001,Fund. of Comm Systems&Networks,23-Apr,14:00,
+295,ECSE 310,001,Thermodynamics of Computing,28-Apr,18:30,
+296,ECSE 316,001,Signals and Networks,20-Apr,9:00,
+297,ECSE 321,001,Intro. to Software Engineering,27-Apr,14:00,
+298,ECSE 324,001,Computer Organization,24-Apr,9:00,
+299,ECSE 325,001,Digital Systems,24-Apr,14:00,
+300,ECSE 331,001,Electronics,22-Apr,18:30,
+301,ECSE 352,001,Electromagnetic Waves,20-Apr,9:00,
+302,ECSE 354,001,Electromag Wave Propagation,20-Apr,9:00,
+303,ECSE 361,001,Power Engineering,21-Apr,14:00,
+304,ECSE 362,001,Fundamentals of Power Eng,21-Apr,14:00,
+305,ECSE 405,001,Antennas,27-Apr,18:30,DEPT
+306,ECSE 415,001,Intro to Computer Vision,27-Apr,14:00,
+307,ECSE 422,001,Fault Tolerant Computing,17-Apr,9:00,
+308,ECSE 425,001,Computer Architecture,20-Apr,14:00,
+309,ECSE 427,001,Operating Systems,20-Apr,18:30,
+310,ECSE 433,001,Phys Basis of Trans Devices,21-Apr,14:00,
+311,ECSE 443,001,Intro Numerical Methods in EE,22-Apr,14:00,
+312,ECSE 461,001,Electric Machinery,21-Apr,9:00,
+313,ECSE 470,001,Electromechanical Systems,30-Apr,18:30,DEPT
+314,ECSE 506,001,Stochastic Ctrl &Decision Thry,27-Apr,18:30,DEPT
+315,ECSE 506,002,Stochastic Ctrl &Decision Thry,27-Apr,18:30,DEPT
+316,ECSE 510,001,Filt. & Pred. for Stoch. Sys.,30-Apr,18:30,DEPT
+317,ECSE 510,002,Filt. & Pred. for Stoch. Sys.,30-Apr,18:30,DEPT
+318,ECSE 521,001,Digital Communications 1,30-Apr,18:30,DEPT
+319,ECSE 521,002,Digital Communications 1,30-Apr,18:30,DEPT
+320,ECSE 523,001,Speech Communications,17-Apr,9:00,DEPT
+321,ECSE 523,002,Speech Communications,17-Apr,9:00,DEPT
+322,ECSE 549,001,Expert Systems in Elec Design,30-Apr,18:30,DEPT
+323,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+324,ECSE 549,002,Expert Systems in Elec Design,30-Apr,18:30,DEPT
+325,ECSE 562,001,Low-Carbon Power Gen. Eng.,28-Apr,18:30,DEPT
+326,ECSE 562,002,Low-Carbon Power Gen. Eng.,28-Apr,18:30,DEPT
+327,EDER 319,001,Teaching the Holocaust,23-Apr,9:00,HOME
+328,EDKP 206,001,Biomechanics of Human Movement,28-Apr,9:00,
+329,EDKP 208,001,Biomechanics & Motor Learning,27-Apr,14:00,
+330,EDKP 342,001,Phys. Ed Methods,29-Apr,14:00,
+331,EDKP 405,001,Sport in Society,22-Apr,18:30,
+332,EDKP 446,001,Physical Activity and Ageing,30-Apr,9:00,
+333,EDKP 448,001,Exercise and Health Psychology,24-Apr,9:00,
+334,EDKP 448,002,Exercise and Health Psychology,24-Apr,9:00,
+335,EDKP 449,001,Exercise Pathophysiology 2,27-Apr,18:30,
+336,EDKP 485,001,Exercise Pathophysiology 1,21-Apr,14:00,
+337,EDPE 208,001,Personality&Social Development,21-Apr,9:00,
+338,EDPE 208,002,Personality&Social Development,21-Apr,9:00,
+339,EDPE 377,001,Adolescence and Education,24-Apr,14:00,
+340,EDPE 377,002,Adolescence and Education,24-Apr,14:00,
+341,EDPE 575,720,Statistics for Practitioners,30-Apr,14:00,DEPT
+342,ENGL 201,001,Survey of English Lit 2,20-Apr,14:00,
+343,ENGL 203,001,Dept. Survey of English Lit. 2,23-Apr,14:00,
+344,ENGL 225,001,American Literature 1,28-Apr,9:00,
+345,ENGL 227,001,American Literature 3,27-Apr,9:00,
+346,ENGL 280,001,Intro to Film as Mass Medium,29-Apr,9:00,
+347,ENGL 308,001,English Renaissance Drama 1,27-Apr,14:00,
+348,ENGL 315,001,Shakespeare,22-Apr,9:00,
+349,ENGL 324,001,20th C American Prose,17-Apr,9:00,HOME
+350,ENGL 328,001,Dvlpmnt of Canadian Poetry 1,29-Apr,9:00,DEPT
+351,ENGL 331,001,Literature Romantic Period 1,22-Apr,14:00,HOME
+352,ENGL 346,001,Materiality&Sociology of Text,17-Apr,9:00,HOME
+353,ENGL 347,001,Great Writings of Europe 1,17-Apr,14:00,HOME
+354,ENGL 355,001,The Poetics of Performance,17-Apr,9:00,HOME
+355,ENGL 357,001,Chaucer-Canterbury Tales,23-Apr,14:00,HOME
+356,ENGL 381,001,A Film-Maker 1,24-Apr,14:00,
+357,ENGL 382,001,International Cinema 1,20-Apr,9:00,HOME
+358,ENGL 415,001,Studies in 20th C Lit 2,22-Apr,18:30,HOME
+359,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+360,ENTO 352,001,Biocontrol of Pest Insects,29-Apr,9:00,MAC
+361,ENVB 305,001,Population & Community Ecology,28-Apr,9:00,MAC
+362,ENVR 202,001,The Evolving Earth,20-Apr,18:30,
+363,ENVR 202,051,The Evolving Earth,29-Apr,9:00,MAC
+364,ENVR 203,001,"Knowledge, Ethics&Environment",22-Apr,9:00,
+365,EPSC 180,001,The Terrestrial Planets,23-Apr,18:30,
+366,EPSC 181,001,Environmental Geology,22-Apr,14:00,
+367,EPSC 201,001,Understanding Planet Earth,24-Apr,14:00,
+368,EPSC 212,001,Introductory Petrology,27-Apr,18:30,DEPT
+369,EPSC 423,001,Igneous Petrology,17-Apr,14:00,DEPT
+370,EPSC 542,001,Chemical Oceanography,20-Apr,18:30,DEPT
+371,EPSC 548,001,Processes of Igneous Petrology,30-Apr,18:30,DEPT
+372,EPSC 549,001,Hydrogeology,23-Apr,14:00,
+373,ESYS 104,001,The Earth System,28-Apr,9:00,
+374,ESYS 200,001,Earth System Processes,17-Apr,14:00,DEPT
+375,EXMD 401,001,Physiol&Biochem Endocrin Sys,27-Apr,14:00,
+376,EXMD 503,001,Advanced Endocrinology 02,21-Apr,14:00,
+377,EXMD 508,001,Adv Topics in Respiration,20-Apr,9:00,DEPT
+378,FACC 100,001,Intro to the Eng. Profession,27-Apr,9:00,
+379,FACC 100,002,Intro to the Eng. Profession,27-Apr,9:00,
+380,FACC 300,001,Engineering Economy,30-Apr,9:00,
+381,FACC 300,002,Engineering Economy,30-Apr,9:00,
+382,FACC 400,001,Eng Professional Practice,29-Apr,9:00,
+383,FACC 400,002,Eng Professional Practice,29-Apr,9:00,
+384,FDSC 230,001,Organic Chemistry,27-Apr,9:00,MAC
+385,FDSC 233,001,Physical Chemistry,30-Apr,14:00,MAC
+386,FDSC 251,001,Food Chemistry 1,21-Apr,9:00,MAC
+387,FDSC 315,001,Separation Tech in Food Anal 1,20-Apr,9:00,MAC
+388,FDSC 334,001,Anal of Food Toxins&Toxicants,23-Apr,9:00,MAC
+389,FDSC 400,001,Food Packaging,30-Apr,9:00,MAC
+390,FDSC 516,001,Flavour Chemistry,17-Apr,9:00,MAC
+391,FDSC 525,001,Food Quality Assurance,27-Apr,14:00,MAC
+392,FDSC 536,001,Food Traceability,29-Apr,9:00,MAC
+393,FDSC 634,001,Food Toxins & Toxicants,23-Apr,9:00,MAC
+394,FDSC 652,001,Separation Tech in Food Anal 2,20-Apr,9:00,MAC
+395,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+396,FINE 342,001,Corporate Finance,20-Apr,14:00,
+397,FINE 342,002,Corporate Finance,20-Apr,14:00,
+398,FINE 342,003,Corporate Finance,20-Apr,14:00,
+399,FINE 434,001,Topics in Finance 1,17-Apr,9:00,
+400,FINE 434,002,Topics in Finance 1,17-Apr,9:00,
+401,FINE 434,003,Topics in Finance 1,17-Apr,9:00,
+402,FINE 434,004,Topics in Finance 1,17-Apr,9:00,
+403,FINE 434,005,Topics in Finance 1,17-Apr,9:00,
+404,FINE 441,001,Investment Management,21-Apr,14:00,
+405,FINE 441,002,Investment Management,21-Apr,14:00,
+406,FINE 441,003,Investment Management,21-Apr,14:00,
+407,FINE 441,004,Investment Management,21-Apr,14:00,
+408,FINE 442,001,Capital Markets & Institutions,24-Apr,14:00,
+409,FINE 442,002,Capital Markets & Institutions,24-Apr,14:00,
+410,FINE 443,001,Applied Corporate Finance,20-Apr,14:00,
+411,FINE 443,002,Applied Corporate Finance,20-Apr,14:00,
+412,FINE 443,003,Applied Corporate Finance,20-Apr,14:00,
+413,FINE 446,051,Behavioural Finance,23-Apr,18:30,
+414,FINE 447,001,Venture Capital & Ent Finance,22-Apr,18:30,
+415,FINE 447,002,Venture Capital & Ent Finance,22-Apr,18:30,
+416,FINE 448,001,Financial Derivatives,29-Apr,18:30,
+417,FINE 448,002,Financial Derivatives,29-Apr,18:30,
+418,FINE 451,001,Fixed Income Analysis,23-Apr,14:00,
+419,FINE 451,002,Fixed Income Analysis,23-Apr,14:00,
+420,FINE 451,003,Fixed Income Analysis,23-Apr,14:00,
+421,FINE 482,001,International Finance 1,30-Apr,18:30,
+422,FINE 482,002,International Finance 1,30-Apr,18:30,
+423,FMT4 008,001,Animal Genetics and Nutrition,22-Apr,14:00,MAC
+424,FMT4 009,001,Soil Fertility,24-Apr,9:00,MAC
+425,FMT4 011,001,Farm Accounting,30-Apr,9:00,MAC
+426,FMT4 012,001,Machinery Maintenance,28-Apr,9:00,MAC
+427,FMT4 016,001,Budgeting and Administration,29-Apr,9:00,MAC
+428,FMT4 017,001,Agricultural Systems,27-Apr,9:00,MAC
+429,FMT4 024,001,Farm Building Development,23-Apr,14:00,MAC
+430,FMT4 026,001,Human Resources,28-Apr,9:00,MAC
+431,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+432,FMT4 029,001,Dairy Performance Management,30-Apr,14:00,MAC
+433,FMT4 030,001,Swine and Poultry Management,22-Apr,14:00,MAC
+434,FMT4 034,001,Greenhouse Crop Production,28-Apr,9:00,MAC
+435,FMTP 098,001,Français agricole,24-Apr,9:00,MAC
+436,FREN 335,001,Théories littéraires 1,24-Apr,14:00,DEPT
+437,FREN 444,001,Questions de litt. moderne,28-Apr,18:30,
+438,FREN 459,001,La litt du 18e siècle 2,23-Apr,18:30,DEPT
+439,FREN 482,001,La littérature du 19e siècle 2,17-Apr,9:00,HOME
+440,FREN 485,001,Litt. française contemporaine,30-Apr,18:30,
+441,FRSL 102,001,Beginners French 2,17-Apr,9:00,DEPT
+442,FRSL 102,002,Beginners French 2,17-Apr,9:00,DEPT
+443,FRSL 102,003,Beginners French 2,17-Apr,9:00,DEPT
+444,FRSL 102,004,Beginners French 2,17-Apr,9:00,DEPT
+445,FRSL 102,005,Beginners French 2,17-Apr,9:00,DEPT
+446,FRSL 102,006,Beginners French 2,17-Apr,9:00,DEPT
+447,FRSL 102,007,Beginners French 2,17-Apr,9:00,DEPT
+448,FRSL 102,008,Beginners French 2,17-Apr,9:00,DEPT
+449,GEOG 205,001,"Global Chg:Past, Pres & Future",27-Apr,18:30,
+450,GEOG 217,001,Cities in the Modern World,29-Apr,14:00,
+451,GEOG 303,001,Health Geography,22-Apr,18:30,
+452,GEOG 311,001,Economic Geography,30-Apr,9:00,
+453,GEOG 322,001,Environmental Hydrology,27-Apr,18:30,
+454,GEOG 325,001,New Master-Planned Cities,20-Apr,14:00,DEPT
+455,GEOG 351,001,Quantitative Methods,21-Apr,14:00,DEPT
+456,GEOG 360,001,Analyzing Sustainability,21-Apr,18:30,HOME
+457,GEOG 384,001,Principles of Geospatial Web,17-Apr,9:00,DEPT
+458,GEOG 407,001,Issues in Geography,21-Apr,18:30,HOME
+459,GEOG 420,001,"Memory, Place, and Power",30-Apr,9:00,
+460,GERM 200,001,German Lang Intens Beginners,24-Apr,14:00,
+461,GERM 200,002,German Lang Intens Beginners,24-Apr,14:00,
+462,GERM 202D2,001,"German Language, Beginners",27-Apr,18:30,
+463,GERM 202D2,002,"German Language, Beginners",27-Apr,18:30,
+464,GERM 202D2,003,"German Language, Beginners",27-Apr,18:30,
+465,GERM 202D2,004,"German Language, Beginners",27-Apr,18:30,
+466,GSFS 405,001,Social Justice and Activism,23-Apr,14:00,HOME
+467,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+468,HGEN 400,001,Genetics in Medicine,20-Apr,14:00,
+469,HISP 210D2,001,Spanish Language:Beginners,30-Apr,9:00,
+470,HISP 210D2,002,Spanish Language:Beginners,30-Apr,9:00,
+471,HISP 210D2,003,Spanish Language:Beginners,30-Apr,9:00,
+472,HISP 210D2,004,Spanish Language:Beginners,30-Apr,9:00,
+473,HISP 210D2,005,Spanish Language:Beginners,30-Apr,9:00,
+474,HISP 210D2,006,Spanish Language:Beginners,30-Apr,9:00,
+475,HISP 218,001,Spanish Lang Intens-Elem,30-Apr,9:00,
+476,HISP 218,002,Spanish Lang Intens-Elem,30-Apr,9:00,
+477,HISP 219,001,Spanish Lang Intens-Intermed,30-Apr,9:00,
+478,HISP 219,002,Spanish Lang Intens-Intermed,30-Apr,9:00,
+479,HISP 220D2,001,Spanish Language:Intermediate,30-Apr,9:00,
+480,HISP 220D2,002,Spanish Language:Intermediate,30-Apr,9:00,
+481,HISP 220D2,003,Spanish Language:Intermediate,30-Apr,9:00,
+482,HISP 220D2,004,Spanish Language:Intermediate,30-Apr,9:00,
+483,HISP 220D2,005,Spanish Language:Intermediate,30-Apr,9:00,
+484,HISP 226,001,Hispanic Civilization 2,21-Apr,14:00,
+485,HISP 244,001,Survey of Lat Amer Lit&Cult2,28-Apr,14:00,
+486,HISP 328,001,Lit of Ideas: Latin America,29-Apr,14:00,
+487,HIST 203,001,Survey:Canada since 1867,21-Apr,14:00,
+488,HIST 203,002,Survey:Canada since 1867,21-Apr,14:00,
+489,HIST 213,001,"World History, 600-2000",27-Apr,14:00,HOME
+490,HIST 215,001,Modern Europe,20-Apr,14:00,
+491,HIST 218,001,Modern East Asian History,29-Apr,18:30,
+492,HIST 221,001,United States since 1865,20-Apr,9:00,
+493,HIST 304,001,IR History 2: Cold War,17-Apr,14:00,HOME
+494,HIST 306,001,"East Central Europe, 1944-2004",28-Apr,9:00,
+495,HIST 312,001,Hist of Consumption in Canada,28-Apr,18:30,
+496,HIST 329,001,History of Yugoslavia,24-Apr,14:00,
+497,HIST 330,001,Themes in Canadian History,17-Apr,14:00,HOME
+498,HIST 351,001,Themes in U.S. History s. 1865,24-Apr,9:00,
+499,HIST 360,001,Latin America since 1825,22-Apr,14:00,HOME
+500,HIST 375,001,Rome: Republic to Empire,27-Apr,18:30,
+501,HIST 382,001,History of South Africa,27-Apr,14:00,HOME
+502,HIST 383,001,Eighteenth-Century Britain,23-Apr,14:00,HOME
+503,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+504,HIST 388,001,The Second World War,30-Apr,14:00,
+505,HIST 401,001,Topics:Medieval Culture&Soc,24-Apr,14:00,HOME
+506,HIST 417,001,British and Irish Nationalisms,29-Apr,14:00,
+507,HIST 421,001,Topics in Early Modern Europe,23-Apr,14:00,HOME
+508,IGFS 611,001,Adv. Issues on Dev. Food&Agric,30-Apr,14:00,MAC
+509,INDG 202,001,Topics in Indigenous Studies 1,21-Apr,14:00,HOME
+510,INDR 294,001,Intro to Labour-Mgmt Relations,29-Apr,18:30,
+511,INSY 333,001,Systems Analysis & Modelling,27-Apr,14:00,
+512,INSY 336,001,DataHandl&Coding for Analytics,22-Apr,14:00,DEPT
+513,INSY 336,002,DataHandl&Coding for Analytics,22-Apr,14:00,DEPT
+514,INSY 341,001,Developing Business Apps,22-Apr,9:00,
+515,INSY 437,001,Managing Data & Databases,21-Apr,9:00,
+516,INSY 446,001,DataMiningforBusinessAnalytics,28-Apr,9:00,
+517,INSY 448,001,Text & Social Media Analytics,17-Apr,18:30,HOME
+518,INTD 200,001,Intro to Int'l Development,22-Apr,14:00,HOME
+519,INTD 354,001,Civil Society and Development,22-Apr,14:00,HOME
+520,INTG 202,061,Integrated Mgmt Essentials 2,23-Apr,14:00,
+521,ISLA 210,001,Muslim Societies,28-Apr,9:00,DEPT
+522,ISLA 330,001,Islamic Mysticism: Sufism,20-Apr,9:00,HOME
+523,ISLA 360,001,Islam and Politics,17-Apr,14:00,HOME
+524,ISLA 383,001,Central Questions-Islamic Law,17-Apr,18:30,HOME
+525,ISLA 495,001,WI&MES Research Seminar,27-Apr,18:30,HOME
+526,ISLA 521D2,001,Introductory Arabic,27-Apr,18:30,
+527,ISLA 521D2,002,Introductory Arabic,27-Apr,18:30,
+528,ISLA 521D2,003,Introductory Arabic,27-Apr,18:30,
+529,ISLA 522D2,001,Lower Intermediate Arabic,30-Apr,9:00,
+530,ISLA 522D2,002,Lower Intermediate Arabic,30-Apr,9:00,
+531,ISLA 523D2,002,Higher Intermediate Arabic,27-Apr,9:00,DEPT
+532,ISLA 532D2,001,Introductory Turkish,30-Apr,18:30,DEPT
+533,ISLA 533D2,001,Lower Intermediate Turkish,30-Apr,18:30,DEPT
+534,ISLA 534D2,001,Higher Intermediate Turkish,29-Apr,14:00,DEPT
+535,ISLA 541D2,001,Introductory Persian,23-Apr,14:00,DEPT
+536,ISLA 542D2,001,Lower Intermediate Persian,29-Apr,18:30,DEPT
+537,ISLA 544,001,Upper Intermediate Persian 2,27-Apr,18:30,DEPT
+538,ITAL 205D2,001,Italian for Beginners,21-Apr,9:00,
+539,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+540,ITAL 205D2,002,Italian for Beginners,21-Apr,9:00,
+541,ITAL 205D2,003,Italian for Beginners,21-Apr,9:00,
+542,ITAL 206,001,Beginners Italian Intensive,30-Apr,9:00,
+543,ITAL 206,002,Beginners Italian Intensive,30-Apr,9:00,
+544,ITAL 210D2,001,Italian for Adv. Beginners,21-Apr,14:00,DEPT
+545,ITAL 215D2,001,Intermediate Italian,23-Apr,18:30,DEPT
+546,ITAL 216,001,Intermediate Italian Intensive,24-Apr,14:00,DEPT
+547,JWST 240,001,The Holocaust,17-Apr,9:00,HOME
+548,LING 201,001,Introduction to Linguistics,30-Apr,9:00,
+549,LING 215,001,Languages of the World,27-Apr,18:30,HOME
+550,LING 330,001,Phonetics,24-Apr,9:00,
+551,LING 350,001,Ling Aspects of Bilingualism,27-Apr,9:00,
+552,LING 355,001,Language Acquisition 1,23-Apr,14:00,
+553,LING 371,001,Syntax 1,17-Apr,14:00,
+554,LING 451,001,Acquisition of Phonology,24-Apr,14:00,DEPT
+555,LSCI 202,001,Molecular Cell Biology,24-Apr,9:00,MAC
+556,LSCI 211,001,Biochemistry 1,20-Apr,14:00,MAC
+557,LSCI 230,001,Introductory Microbiology,22-Apr,9:00,MAC
+558,MATH 111,001,Math for Education Students,24-Apr,14:00,
+559,MATH 122,001,Calculus for Management,22-Apr,9:00,
+560,MATH 123,001,Linear Algebra and Probability,20-Apr,14:00,
+561,MATH 133,001,Linear Algebra and Geometry,21-Apr,9:00,
+562,MATH 140,001,Calculus 1,20-Apr,9:00,
+563,MATH 141,001,Calculus 2,21-Apr,18:30,
+564,MATH 141,002,Calculus 2,21-Apr,18:30,
+565,MATH 141,003,Calculus 2,21-Apr,18:30,
+566,MATH 151,001,Calculus B,21-Apr,18:30,
+567,MATH 203,001,Principles of Statistics 1,23-Apr,9:00,
+568,MATH 204,001,Principles of Statistics 2,20-Apr,14:00,
+569,MATH 222,001,Calculus 3,30-Apr,14:00,
+570,MATH 223,001,Linear Algebra,21-Apr,9:00,
+571,MATH 236,001,Algebra 2,21-Apr,9:00,
+572,MATH 240,001,Discrete Structures,22-Apr,9:00,
+573,MATH 240,002,Discrete Structures,22-Apr,9:00,
+574,MATH 243,001,Analysis 2,22-Apr,9:00,
+575,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+576,MATH 247,001,Honours Applied Linear Algebra,22-Apr,14:00,
+577,MATH 249,001,Honours Complex Variables,20-Apr,18:30,
+578,MATH 251,001,Honours Algebra 2,17-Apr,9:00,
+579,MATH 255,001,Honours Analysis 2,28-Apr,14:00,
+580,MATH 262,001,Intermediate Calculus,24-Apr,14:00,
+581,MATH 263,001,ODEs for Engineers,22-Apr,14:00,
+582,MATH 263,002,ODEs for Engineers,22-Apr,14:00,
+583,MATH 264,001,Adv Calculus for Engineers,20-Apr,9:00,
+584,MATH 314,001,Advanced Calculus,29-Apr,18:30,
+585,MATH 315,001,Ordinary Differential Eqns,21-Apr,18:30,
+586,MATH 319,001,Intro to Partial Diff Equas,17-Apr,9:00,
+587,MATH 323,001,Probability,28-Apr,14:00,
+588,MATH 323,002,Probability,28-Apr,14:00,
+589,MATH 324,001,Statistics,27-Apr,18:30,
+590,MATH 325,001,Honours ODE's,17-Apr,14:00,
+591,MATH 329,001,Theory of Interest,24-Apr,9:00,
+592,MATH 340,001,Discrete Mathematics,28-Apr,9:00,
+593,MATH 357,001,Honours Statistics,21-Apr,18:30,
+594,MATH 358,001,Honours Advanced Calculus,23-Apr,18:30,DEPT
+595,MATH 387,001,Honours Numerical Analysis,29-Apr,9:00,
+596,MATH 430,001,Mathematical Finance,30-Apr,14:00,
+597,MATH 437,001,Mathematical Meth in Biology,27-Apr,14:00,
+598,MATH 447,001,Intro. to Stochastic Processes,30-Apr,18:30,
+599,MATH 455,001,Honours Analysis 4,27-Apr,14:00,
+600,MATH 457,001,Honours Algebra 4,23-Apr,14:00,
+601,MATH 458,001,Honours Differential Geometry,22-Apr,18:30,DEPT
+602,MATH 523,001,Generalized Linear Models,23-Apr,14:00,
+603,MATH 537,001,Honours Math Models in Biology,27-Apr,14:00,
+604,MATH 545,001,Intro to Time Series Analysis,20-Apr,14:00,
+605,MATH 550,001,Combinatorics,27-Apr,9:00,HOME
+606,MATH 557,001,Mathematical Statistics 2,30-Apr,18:30,
+607,MATH 560,001,Optimization,28-Apr,18:30,
+608,MATH 565,001,Advanced Real Analysis 2,24-Apr,9:00,HOME
+609,MATH 571,001,Higher Algebra 2,29-Apr,18:30,DEPT
+610,MATH 577,001,Geometry & Topology 2,17-Apr,14:00,DEPT
+611,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+612,MATH 589,001,Advanced Probability Theory 2,29-Apr,18:30,DEPT
+613,MECH 210,001,Mechanics 1,24-Apr,9:00,
+614,MECH 220,001,Mechanics 2,24-Apr,9:00,
+615,MECH 240,001,Thermodynamics 1,29-Apr,18:30,
+616,MECH 261,001,Measurement Laboratory,28-Apr,9:00,
+617,MECH 262,001,Statistics and Measurement Lab,28-Apr,9:00,
+618,MECH 309,001,Numerical Methods in Mech Eng,30-Apr,18:30,
+619,MECH 314,001,Dynamics of Mechanisms,27-Apr,18:30,
+620,MECH 315,001,Mechanics 3,21-Apr,14:00,
+621,MECH 321,001,Mechanics of Deformable Solids,17-Apr,9:00,
+622,MECH 331,001,Fluid Mechanics 1,22-Apr,9:00,
+623,MECH 341,001,Thermodynamics 2,20-Apr,9:00,
+624,MECH 346,001,Heat Transfer,22-Apr,18:30,
+625,MECH 360,001,Principles of Manufacturing,27-Apr,14:00,
+626,MECH 383,001,Appl Electronics&Instrumentn,28-Apr,9:00,
+627,MECH 412,001,System Dynamics and Control,23-Apr,14:00,
+628,MECH 419,001,Advanced Mechanics of Systems,21-Apr,9:00,DEPT
+629,MECH 430,001,Fluid Mechanics 2,24-Apr,14:00,
+630,MECH 513,001,Control Systems,23-Apr,14:00,DEPT
+631,MECH 513,002,Control Systems,23-Apr,14:00,DEPT
+632,MECH 524,001,Compu Integrated Manufacturing,17-Apr,14:00,DEPT
+633,MECH 524,002,Compu Integrated Manufacturing,17-Apr,14:00,DEPT
+634,MECH 532,001,"Aircraft Perform,Stablty&Cntl",17-Apr,9:00,
+635,MECH 532,002,"Aircraft Perform,Stablty&Cntl",17-Apr,9:00,
+636,MECH 561,001,Biomech of Musculoskeletal Sys,20-Apr,14:00,
+637,MECH 561,002,Biomech of Musculoskeletal Sys,20-Apr,14:00,
+638,MECH 563,001,Biofluids&Cardiovascular Mech,27-Apr,14:00,
+639,MGCR 211,001,Intro to Financial Accounting,22-Apr,14:00,
+640,MGCR 211,002,Intro to Financial Accounting,22-Apr,14:00,
+641,MGCR 211,003,Intro to Financial Accounting,22-Apr,14:00,
+642,MGCR 222,001,Intro to Org Behaviour,24-Apr,9:00,
+643,MGCR 222,002,Intro to Org Behaviour,24-Apr,9:00,
+644,MGCR 222,003,Intro to Org Behaviour,24-Apr,9:00,
+645,MGCR 222,004,Intro to Org Behaviour,24-Apr,9:00,
+646,MGCR 222,005,Intro to Org Behaviour,24-Apr,9:00,
+647,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+648,MGCR 222,006,Intro to Org Behaviour,24-Apr,9:00,
+649,MGCR 271,001,Business Statistics,29-Apr,18:30,
+650,MGCR 271,002,Business Statistics,29-Apr,18:30,
+651,MGCR 293,001,Managerial Economics,30-Apr,18:30,
+652,MGCR 293,002,Managerial Economics,30-Apr,18:30,
+653,MGCR 331,001,Information Systems,27-Apr,9:00,
+654,MGCR 331,002,Information Systems,27-Apr,9:00,
+655,MGCR 331,003,Information Systems,27-Apr,9:00,
+656,MGCR 331,004,Information Systems,27-Apr,9:00,
+657,MGCR 341,001,Introduction to Finance,21-Apr,14:00,
+658,MGCR 341,002,Introduction to Finance,21-Apr,14:00,
+659,MGCR 341,003,Introduction to Finance,21-Apr,14:00,
+660,MGCR 352,001,Principles of Marketing,17-Apr,14:00,
+661,MGCR 352,002,Principles of Marketing,17-Apr,14:00,
+662,MGCR 352,003,Principles of Marketing,17-Apr,14:00,
+663,MGCR 352,004,Principles of Marketing,17-Apr,14:00,
+664,MGCR 352,005,Principles of Marketing,17-Apr,14:00,
+665,MGCR 352,006,Principles of Marketing,17-Apr,14:00,
+666,MGCR 352,007,Principles of Marketing,17-Apr,14:00,
+667,MGCR 382,001,International Business,20-Apr,9:00,
+668,MGCR 382,002,International Business,20-Apr,9:00,
+669,MGCR 423,001,Strategic Management,28-Apr,14:00,
+670,MGCR 423,002,Strategic Management,28-Apr,14:00,
+671,MGCR 423,003,Strategic Management,28-Apr,14:00,
+672,MGCR 423,004,Strategic Management,28-Apr,14:00,
+673,MGCR 472,001,Operations Management,29-Apr,9:00,
+674,MGCR 472,002,Operations Management,29-Apr,9:00,
+675,MGCR 472,003,Operations Management,29-Apr,9:00,
+676,MGCR 472,004,Operations Management,29-Apr,9:00,
+677,MGCR 472,005,Operations Management,29-Apr,9:00,
+678,MGCR 472,006,Operations Management,29-Apr,9:00,
+679,MGPO 469,001,Managing Globalization,29-Apr,14:00,
+680,MGPO 469,002,Managing Globalization,29-Apr,14:00,
+681,MGSC 372,001,Advanced Business Statistics,28-Apr,9:00,
+682,MGSC 372,002,Advanced Business Statistics,28-Apr,9:00,
+683,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+684,MICR 331,001,Microbial Ecology,27-Apr,14:00,MAC
+685,MIME 209,001,Mathematical Applications,23-Apr,14:00,
+686,MIME 212,001,Engineering Thermodynamics,30-Apr,18:30,
+687,MIME 260,001,Materials Science&Engineering,17-Apr,14:00,
+688,MIME 262,001,Prop.Materials in Elec. Eng.,20-Apr,14:00,
+689,MIME 311,001,Modelling&Automatic Control,27-Apr,14:00,
+690,MIME 322,001,Rock Fragmentation,27-Apr,18:30,
+691,MIME 323,001,Rock and Soil Mass Character,29-Apr,14:00,
+692,MIME 325,001,Mineral Industry Economics,30-Apr,18:30,
+693,MIME 333,001,Materials Handling,28-Apr,9:00,
+694,MIME 341,001,Intro to Mineral Processing,24-Apr,14:00,
+695,MIME 442,001,"Anal,Mod&Opt in Min Processing",24-Apr,14:00,DEPT
+696,MIME 452,001,Process and Materials Design,17-Apr,9:00,ORAL
+697,MIME 455,001,Advanced Process Engineering,22-Apr,14:00,
+698,MIME 456,001,Steelmaking & Steel Processing,20-Apr,14:00,
+699,MIME 473,001,Intro to Comp Matls Design,22-Apr,9:00,ORAL
+700,MIME 526,001,Mineral Economics,30-Apr,18:30,
+701,MIME 569,001,Electron Beam Analysis of Mtls,30-Apr,18:30,DEPT
+702,MIME 569,002,Electron Beam Analysis of Mtls,30-Apr,18:30,DEPT
+703,MIME 576,001,Adv Steelmaking & Processing,20-Apr,14:00,
+704,MIMM 214,001,Intro Immun: Elem of Immunity,28-Apr,9:00,
+705,MIMM 314,001,Intermediate Immunology,30-Apr,18:30,
+706,MIMM 387,001,The Business of Science,21-Apr,14:00,DEPT
+707,MIMM 413,001,Parasitology,24-Apr,14:00,
+708,MIMM 466,001,Viral Pathogenesis,17-Apr,14:00,
+709,MRKT 438,002,Brand Management,23-Apr,9:00,DEPT
+710,MRKT 453,001,Advertising and Media,27-Apr,18:30,
+711,MUAR 201,001,Basic Materials:Western Mus,27-Apr,14:00,DEPT
+712,MUAR 201,002,Basic Materials:Western Mus,27-Apr,14:00,DEPT
+713,MUAR 211,001,The Art of Listening,30-Apr,18:30,DEPT
+714,MUAR 392,001,Popular Music after 1945,30-Apr,18:30,DEPT
+715,MUAR 393,001,Intro to Jazz,27-Apr,9:00,DEPT
+716,MUAR 399,001,Music and Queer Identity,23-Apr,9:00,DEPT
+717,MUHL 286,001,Critical Thinking About Music,27-Apr,9:00,DEPT
+718,MUHL 377,001,Baroque Opera,28-Apr,14:00,DEPT
+719,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+720,MUIT 202,001,Woodwind Techniques,20-Apr,9:00,WRITTEN
+721,MUIT 202,001P,Woodwind Techniques,20-Apr,14:00,PRACTICAL
+722,MUIT 204,001,Percussion Techniques,30-Apr,18:30,DEPT
+723,MUMT 250,001,Music Perception and Cognition,17-Apr,9:00,DEPT
+724,MUSP 124,001,Jazz Ear Training 2,27-Apr,9:00,DEPT
+725,MUSP 124,002,Jazz Ear Training 2,27-Apr,9:00,DEPT
+726,MUTH 151,001,Theory and Analysis 2,29-Apr,18:30,DEPT
+727,NEUR 310,001,Cellular Neurobiology,17-Apr,9:00,
+728,NEUR 550,001,Free Radical Biomedicine,28-Apr,18:30,DEPT
+729,NSCI 201,001,Intro. to Neuroscience 2,29-Apr,9:00,
+730,NUR1 210,001,Pathophysiology for Nursing 2,30-Apr,18:30,
+731,NUR1 236,001,Health & Physical Assess/Anat2,21-Apr,14:00,
+732,NUR1 301,001,Pharmacology for Nursing 2,27-Apr,14:00,
+733,NUR1 311,001,Infection Prevention & Control,24-Apr,14:00,
+734,NUR1 324,001,Illness Management 2,30-Apr,18:30,
+735,NUR1 326,002,"Acute,Chron&Pall Hlth Chall 2",21-Apr,18:30,
+736,NUR1 326,003,"Acute,Chron&Pall Hlth Chall 2",21-Apr,18:30,
+737,NUR1 326,004,"Acute,Chron&Pall Hlth Chall 2",21-Apr,18:30,
+738,NUR1 339,001,Appl Hlth&Phys Assessmt/Anat 2,29-Apr,18:30,
+739,NUR2 501,001,Integrated Health Sciences 2,30-Apr,18:30,DEPT
+740,NUR2 535,001,Health Assessment/Anatomy 2,29-Apr,18:30,
+741,NUR2 634,001,Clin. Assess. & Therapeutics 2,30-Apr,18:30,
+742,NUTR 217,001,Application: Food Fundamentals,30-Apr,9:00,MAC
+743,NUTR 301,001,Psychology,28-Apr,14:00,MAC
+744,NUTR 337,001,Nutrition Through Life,21-Apr,14:00,MAC
+745,NUTR 343,001,Accounting and Cost Control,23-Apr,9:00,MAC
+746,NUTR 344,001,Clinical Nutrition 1,23-Apr,9:00,MAC
+747,NUTR 551,001,Analysis of Nutrition Data,28-Apr,14:00,MAC
+748,NUTR 604,001,Integrated Metabolic Research,24-Apr,17:00,MAC HOME
+749,ORGB 330,001,People Analytics,24-Apr,9:00,
+750,PARA 410,001,Environment and Infection,20-Apr,16:00,MAC HOME
+751,PATH 300,001,Human Disease,20-Apr,9:00,
+752,PHAR 201,001,Introduction to Pharmacology 2,30-Apr,14:00,DEPT
+753,PHAR 301,001,Drugs and Disease,27-Apr,9:00,
+754,PHAR 303,001,Principles of Toxicology,29-Apr,9:00,
+755,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+756,PHAR 563,001,Endocrine Pharmacology,24-Apr,9:00,
+757,PHAR 565,001,Epigenetic Drugs and Targets,20-Apr,14:00,DEPT
+758,PHGY 210,001,Mammalian Physiology 2,20-Apr,18:30,
+759,PHGY 210,002,Mammalian Physiology 2,20-Apr,18:30,
+760,PHGY 213,001,Introductory Physiology Lab 2,17-Apr,9:00,
+761,PHGY 312,001,"Resp.,Renal,&Cardio Physiology",24-Apr,9:00,
+762,PHGY 313,001,"Blood,GI,Imm.Syst.Physiol",30-Apr,14:00,
+763,PHGY 502,001,Exercise Physiology,29-Apr,18:30,
+764,PHGY 516,001,Physiology of Blood,21-Apr,9:00,DEPT
+765,PHIL 237,001,Contemporary Moral Issues,17-Apr,9:00,HOME
+766,PHIL 310,001,Intermediate Logic,24-Apr,18:30,HOME
+767,PHIL 345,001,Greek Political Theory,22-Apr,18:30,DEPT
+768,PHIL 361,001,18th Century Philosophy,17-Apr,9:00,HOME
+769,PHIL 411,001,Topics in Phil of Logic & Math,30-Apr,18:30,HOME
+770,PHIL 415,001,Philosophy of Language,24-Apr,18:30,HOME
+771,PHYS 102,001,Intro Physics-Electromagnetism,29-Apr,18:30,
+772,PHYS 142,001,Electromagnetism & Optics,20-Apr,18:30,
+773,PHYS 181,001,Everyday Physics,27-Apr,14:00,
+774,PHYS 183,001,The Milky Way Inside and Out,28-Apr,14:00,
+775,PHYS 228,001,Energy and the Environment,23-Apr,14:00,DEPT
+776,PHYS 232,001,Heat and Waves,28-Apr,9:00,DEPT
+777,PHYS 241,001,Signal Processing,27-Apr,14:00,
+778,PHYS 319,001,Introduction to Biophysics,24-Apr,14:00,
+779,PHYS 329,001,Stat Physics w/ Biophys Appl,22-Apr,18:30,DEPT
+780,PHYS 331,001,Topics in Classical Mechanics,20-Apr,14:00,
+781,PHYS 333,001,Thermal & Statistical Physics,21-Apr,18:30,DEPT
+782,PHYS 342,001,Majors Electromagnetic Waves,17-Apr,9:00,
+783,PHYS 351,001,Honours Classical Mechanics 2,21-Apr,18:30,
+784,PHYS 362,001,Statistical Mechanics,29-Apr,14:00,
+785,PHYS 447,001,Applications of Quantum Mech.,30-Apr,18:30,
+786,PHYS 457,001,Honours Quantum Physics 2,30-Apr,18:30,
+787,PHYS 514,001,General Relativity,17-Apr,9:00,HOME
+788,PHYS 562,001,Electromagnetic Theory,29-Apr,18:30,DEPT
+789,PHYS 567,001,Particle Physics,24-Apr,14:00,DEPT
+790,PLNT 304,001,Biology of Fungi,23-Apr,9:00,MAC
+791,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+792,PLNT 310,001,Plant Propagation,21-Apr,14:00,MAC
+793,PLNT 322,001,Greenhouse Management,28-Apr,9:00,MAC
+794,PLNT 430,001,Pesticides in Agriculture,24-Apr,9:00,MAC
+795,PLNT 435,001,Plant Breeding,22-Apr,14:00,MAC
+796,POLI 222,001,Political Proc&Behav in Canada,23-Apr,9:00,
+797,POLI 227,001,Developing Areas/Introduction,27-Apr,9:00,
+798,POLI 231,001,Intro to Political Theory,29-Apr,14:00,
+799,POLI 243,001,Intl Poltcs of Econ Relations,28-Apr,14:00,
+800,POLI 321,001,Issues:Canadian Public Policy,21-Apr,9:00,
+801,POLI 324,001,Developing Areas/Africa,17-Apr,14:00,HOME
+802,POLI 331,001,Politics in E Central Europe,22-Apr,9:00,
+803,POLI 341,001,Foreign Policy:The Middle East,27-Apr,14:00,
+804,POLI 350,001,Global Environmental Politics,27-Apr,18:30,
+805,POLI 352,001,Intl Pol/Foreign Pol:Africa,20-Apr,18:30,
+806,POLI 354,001,Approaches to Intl Pol Econ,28-Apr,14:00,
+807,POLI 359,001,Topics in Intl Politics 1,22-Apr,18:30,
+808,POLI 359,002,Topics in Intl Politics 1,22-Apr,18:30,
+809,POLI 362,001,Political Theory and IR,21-Apr,18:30,
+810,POLI 365,001,Democratic Theory,30-Apr,18:30,
+811,POLI 420,001,"Memory, Place, and Power",30-Apr,9:00,
+812,POLI 427,001,Sel Topics:Canadian Politics,27-Apr,9:00,
+813,POLI 450,001,Peacebuilding,21-Apr,14:00,
+814,PSYC 204,001,Intro to Psychological Stats,23-Apr,9:00,
+815,PSYC 212,001,Perception,27-Apr,18:30,
+816,PSYC 213,001,Cognition,20-Apr,14:00,
+817,PSYC 215,001,Social Psychology,28-Apr,18:30,
+818,PSYC 302,001,The Psychology of Pain,28-Apr,14:00,
+819,PSYC 305,001,Statistics for Exper Design,23-Apr,9:00,
+820,PSYC 315,001,Computational Psychology,17-Apr,9:00,
+821,PSYC 318,001,Behavioural Neuroscience 2,22-Apr,9:00,
+822,PSYC 333,001,Personality & Social Psych,29-Apr,18:30,
+823,PSYC 341,001,The Psychology of Bilingualism,22-Apr,14:00,DEPT
+824,PSYC 403,001,Modern Psych in Hist Persp,21-Apr,9:00,
+825,PSYC 408,001,Princip & Apps of Psychother,28-Apr,9:00,
+826,PSYC 412,001,Developmental Psychopathology,21-Apr,18:30,
+827,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+828,PSYC 427,001,Sensorimotor Neuroscience,29-Apr,18:30,
+829,PSYC 433,001,Cognitive Science,20-Apr,9:00,
+830,PSYC 444,001,Sleep Mechanisms and Behaviour,21-Apr,14:00,
+831,PSYC 471,001,Human Motivation,29-Apr,9:00,
+832,PSYC 473,001,Social Cognition and the Self,27-Apr,9:00,
+833,PSYC 529,001,Music Cognition,28-Apr,18:30,
+834,PSYC 541,001,Multilevel Modelling,27-Apr,18:30,DEPT
+835,PSYC 746,001,Quantitative&Indiv Difference,27-Apr,18:30,DEPT
+836,PSYT 500,001,Adv: Neur of Mtl Disorders,30-Apr,18:30,
+837,REDM 400,001,Science and Museums,27-Apr,9:00,DEPT
+838,RELG 203,001,Bible and Western Culture,28-Apr,14:00,
+839,RELG 204,001,"Judaism, Christianity&Islam",27-Apr,9:00,HOME
+840,RELG 254,001,Intro to Yoga Traditions,29-Apr,9:00,
+841,RELG 257D2,001,Introductory Sanskrit,29-Apr,14:00,HOME
+842,RELG 257D2,761,Introductory Sanskrit,29-Apr,14:00,HOME
+843,RELG 270,001,Religious Ethics & the Environ,30-Apr,18:30,
+844,RELG 312,001,The Gospels,24-Apr,14:00,DEPT
+845,RELG 326,001,Christians in the Roman World,28-Apr,18:30,DEPT
+846,RELG 333,001,Princip of Christian Theol 1,23-Apr,9:00,DEPT
+847,RELG 372,001,Hindu Goddesses,30-Apr,14:00,
+848,RELG 411,001,New Testament Exegesis,30-Apr,18:30,HOME
+849,RELG 482,001,Exegesis of Greek New Testamnt,30-Apr,18:30,HOME
+850,RELG 571,001,"Ethics, Medicine and Religion",20-Apr,9:00,ORAL
+851,RUSS 224,001,Russian 19c. Literary Giants 2,22-Apr,18:30,
+852,RUSS 390,001,Special Topics in Russian,24-Apr,14:00,HOME
+853,RUSS 428,001,Russian Avantgarde,21-Apr,14:00,HOME
+854,SEAD 515,001,Climate Change Adapt&Eng Infra,28-Apr,18:30,DEPT
+855,SEAD 520,001,Life Cycle-Based Env Footprint,23-Apr,9:00,DEPT
+856,SOCI 210,001,Sociological Perspectives,27-Apr,9:00,
+857,SOCI 211,001,Sociological Inquiry,30-Apr,14:00,
+858,SOCI 227,001,Jews in North America,30-Apr,14:00,
+859,SOCI 230,001,Sociology of Ethnic Relations,24-Apr,9:00,
+860,SOCI 254,001,Development&Underdevelopment,23-Apr,18:30,
+861,SOCI 305,001,Socialization,29-Apr,14:00,
+862,SOCI 307,001,Globalization,30-Apr,18:30,
+863,COURSE NUMBER,SECTION,TITLE,EXAM DATE,TIME,NOTE
+864,SOCI 321,001,Gender and Work,30-Apr,9:00,
+865,SOCI 326,001,Political Sociology 01,24-Apr,14:00,
+866,SOCI 331,001,Population and Environment,28-Apr,9:00,
+867,SOCI 333,001,Social Stratification,17-Apr,9:00,DEPT
+868,SOCI 420,001,Organizations,22-Apr,9:00,
+869,SWRK 223,001,Poverty and Inequality,30-Apr,14:00,
+870,WILD 350,001,Mammalogy,30-Apr,9:00,MAC
+871,WILD 350,001L,Mammalogy,21-Apr,14:00,MAC LAB
+872,WOOD 441,001,Integrated Forest Management,17-Apr,14:00,MAC
